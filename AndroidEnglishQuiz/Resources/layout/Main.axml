@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="Pytanie:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <EditText
+        android:inputType="textMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/QuestionText"
+        android:layout_marginBottom="45.5dp"
+        android:text="pytanie" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/space1" />
+    <TextView
+        android:text="Odpowiedź:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <EditText
+        android:inputType="textMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/AnswerText"
+        android:text="odpowiedź" />
+    <Button
+        android:text="Umiem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/AnswerLearnedButton" />
+    <Button
+        android:text="Następne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/NextQuestionButton" />
+</LinearLayout>

@@ -1,0 +1,4 @@
+AndroidEnglishQuiz.MainActivity, AndroidEnglishQuiz;md55c26d5969bf780b5ce7829d22605d801.MainActivity
+AndroidEnglishQuiz.MainActivity, AndroidEnglishQuiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55c26d5969bf780b5ce7829d22605d801.MainActivity
+AndroidEnglishQuiz.MainActivity;md55c26d5969bf780b5ce7829d22605d801.MainActivity
+androidenglishquiz.MainActivity;md55c26d5969bf780b5ce7829d22605d801.MainActivity

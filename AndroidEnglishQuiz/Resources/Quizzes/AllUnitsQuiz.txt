@@ -1,0 +1,2794 @@
+﻿acquired : nabyty
+acquired immune deficiency syndrome : Zespół nabytego niedoboru odpornościowego
+addiction : uzależnienie
+ailment : choroba, cierpienie
+angina pectoris : dusznica bolesna
+chicken-pox : ospa wierzna	
+communicable disease : choroba zakaźna
+coronary thrombosis : zakrzepica tętnicywieńcowej
+cure : leczenie
+diabetes : cukrzyca
+diphteria : błonnica
+failure : niewydolność
+fatal : śmiertelny
+german measles : różyczka
+gout : dna, skaza moczanowa
+legionnaires disease : choroba legionistów, zapalenie płóc wywołane przez Legionella pneumophilia
+measles : odra
+mite : roztocz
+mumps : świnka
+myocardial infarct : zawał mięśnia sercowego
+nephritis : zapalenie nerek
+obstruction : zatkanie, zaczopowanie, niedrożność
+plaque : płytka
+poliomyelitis : zapalenie istoty szarej rdzenia
+sarcoma : mięsak
+scarlet fever : szkarlatyna
+semen : nasienie, sperma
+smallpox : ospa
+stroke : udar, porażenie
+tetanus : tężec
+thrombosis : zakrzepica
+thrombus : skrzeplina
+tubercle bacilli : prątki gruźlicy
+tuberculosis : gruźlica
+typhoid : dur brzuszny
+uterine cervix : szyjka macicy
+vaccination : szczepienie
+vermin : robactwo, pasożyty
+whooping cough : ksztusiec, koklusz
+eredicated : wyplenić, wykorzenić
+tuberculin : tuberkulina
+heart disease : choroba serca
+condition predisposing : warunkiem predysponującym
+arteriosclerosis : arterioskleroza
+thicker : grubsze
+ageing : starzenie się
+calcium deposits : złogi wapnia
+fatty plaques : płytki tłuszczowe
+hypertension : nadciśnienie
+blood clots : zakrzepy
+coronary : wieńcowe
+sedentary lifestyle : siedzący tryb życia
+inflammation : stan zapalny
+renal haemodialysis : hemodializa nerek
+carbohydrates : węglowodany
+intake : spożywanie
+pollution : skażenie
+enviroment deterioration : pogorszenie środowiska
+pollen : pyłek
+dust : kurz
+rash : wysypka
+hives : pokrzywka
+hay fever : katar sienny
+eczema : wyprysk, egzema
+marburg disease : choroba Marburga
+Lassa fever : gorączka Lassa
+asbestosis : pylica azbestowa
+suppression of the body's immunity : tłumienie odporności organizmu
+cervical secretions : wydzielina szyjki macicy
+saliva : ślina
+narrowed : zwężone
+cluster of cells : skupisko komórek
+heamaturia : krwiomocz
+stiffness of the joints : sztywność stawów
+vermins : robactwo
+parasites : pasożyty
+ganorrhea : rzeżączka
+brittle:łamliwy, kruchy
+concomitant:współistniejący
+compensate:rekompensować
+cortical:korowy
+densitometry: pomiar gęstości
+density:gęstość
+emphysema:rozedma płuc
+falure:niewydolność
+fracture:złamanie
+fragile:łamliwy
+hump:garbić się
+malabsorption:złe wchłanianie 
+porous:porowaty
+osteoporosis: zeszrotnienie kości/osteoporoza
+resorption:wchłanianie
+response:odpowiedź
+respond:odpowiadać
+stabbing:przeszywający
+progressive: postępująca
+bony tissue:tkanka kostna
+common among the eldery:?
+related to: odnoszący się do
+deficience: brak
+prolonged:przedłużające się
+immobility: bezruch
+formation: twór, formacja,system
+contribute: przyczyniać się
+development:rozwój
+diabetes melitus: cukrzyca
+removal: usunięcie
+first sign:pierwsze objawy
+advanced: zaawansowany
+reveal: ujawnić
+replaced: zastąpić
+HRT: hormon replacement therapy
+noticed: odnotowany
+occur: wydarzyć się
+more prone: bardziej podatny na
+ceased:ustać, skończyć, przerwać
+complain about: skarżyć się na
+slipped: poślizgnąć się
+fell down: przewrócić się
+slightest: nieznaczny
+effort :wysiłek, trud
+stooping: Garbić się
+confirmed: potwierdziły
+recommended, advise: zalecić
+brisk:energiczny
+vigour:Energiczny
+advice:Porada
+adjunctive:pomocniczy
+complexion:cera
+graft:przeszczep
+itch:swędzieć
+junction:połączenie
+melanoblast:kom wytwarzająca melaninę
+melanoma: czerniak
+mole:znamię
+recurrence:nawrót
+survival:przeżycie
+refers: odwołać się
+malignant lesion: zołośliwe zmiany
+affected:zaatakowany
+rarely: rzadko
+slighty raised: lekko wypukła
+flat: płaski
+existing: istniejący
+exposure: wystawienie na
+metastases: przerzuty 
+consist:składać się
+involves: wymagać
+depends: zależeć
+thickness: gęstość 
+promotes: promować, propagować
+anxious: niespokojny
+sudden: nagły, niespodziewany
+childhood: dzieciństwo
+sunbathe: opalanie
+broad-brimmed hat:?
+crust: skórka, piętka 
+acne:trądzik
+macula: plama, skaza
+blister: bąbel, odcisk, pęcherz
+pimple: pryszcz, krosta, wyprysk
+dandruff: łupież
+absent:present
+general:local
+minimal:maximal
+vertical:horizontaal
+deep:superficial
+stimulate:inhibit
+upward : downward
+outside:inside
+fortunetly: na szczęście
+area:miejsce
+azospermia: brak plemników
+conceive: począć
+conception:poczęcie
+defective: uszkodzony
+displacement:przemieszczenie
+ectopic pregnancy: ciąża pozamaciczna
+endometriosis: gruczolistość
+fallopian tube: jajowód
+Favourable: sprzyjający
+fertilize:zapłodnić
+fibroid: włóknistu
+gonorrhoea: rzeżączka
+hostile: wrogi
+hypogonadism: niedoczynność gonad
+immobilize: unieruchomić
+infertility: bezpłodność
+insemination: zaplemnienie
+malformation: wada rozwojowa
+myoma:mięśniak
+oligospermia: za mało plemników
+orchitis: zapalenie jąder
+ovary: jajnik
+ovi duct: Jajowód
+ovum: jajo
+Patent:drożny
+testis pl testes: jądro/a
+testicle: jądro
+undescended: niezastąpione
+refers:nazywać, zwracać się 
+Achieve: osiągać, zdobywać
+couples: para
+Conception : poczęcie, zapłodnienie
+Social : społeczny, socjalny
+presently : niebawem, wkrótce
+reproductive organs: organy rozrodcze
+vagina: pochwa
+cervix: szyjka macicy
+uterus: macisa
+patent: jawny, oczywisty
+mucus secreted: wydzielanie sluzu
+favourable: pomyślny
+reaching : uzyskiwać, osiągać
+anovulation: brak jajeczkowania,
+disorder : choroba ,zaburzenia
+obstruction : zablokowanie, zatkanie
+antibodies : przeciwciala
+Immobilize : pobudzac, aktywowac
+hostile mucus : nieprzyjazna wydzielina .....
+fibroids: wlokniaki
+myomas: miesniak
+polyps : polipy
+uterine displacement : przesuniecie macicy
+endocrine disorders : zaburzenia hormonalne
+undescended testicle: niezstąpione jądra
+defective sperm : wybrakowane nasienie
+requires : potrzebować
+gynaecologist : ginekolog
+urologist : urolog
+in vitro fertilizations : zaplodnienie in vitro
+unprotected sex : brak zabezpieczenia
+natural contraception : antykoncepcja naturalna
+oral contraceptive: tabletki antykoncepcyjne
+condom : prezerwatywa
+intrauterine device IUD: wkladka wewnatrzmaciczna
+Coil: spirala
+diaphragm: kapturek
+Spermicides: srodek plemnikobojczy
+male sterilization : sterylizacja/  ubezplodnienie mezczyzny
+vasectomy: sterylizacja meska
+emergency contraception: Tabletka wczesnoporonna
+the "morning after pill" : tabletka Wczesnoporonna
+abortion pill : tabletka wczesnoporonna
+miscarriage : poronienie
+abortion : aborcja
+be pregnant : byc w ciazy
+get pregnant : zajsc w ciaze
+unexpected pregnancy : nieoczekiwana ciaza
+sexually transmitted diseases : choroby przenoszonedroga plciowa
+Impregnate : zaplodnic
+inseminate : zaplemnic 
+vaginitis: zapalenie pochwy 
+Amenorrhoea : brak miesiaczki
+Hormonal disturbance: zaburzena hormonalne
+blockage of the spermic ducts : zablokowany nasieniowod
+mumps : swinka
+injury to the genitals : uszkodzenia genitali
+congenital defects : wrodzonedefektg
+chromosomal abnormality : nieprawidlowosc chromosomalna
+corrective surgery : operacja korekcyjna
+As a result : z powodu
+contagious : zakaźny
+contaminate : skazić, zanieczyścić
+discharge : wydzielina
+droplet : kropelka
+iatrogenic : jatrogenny, spowodowany przez lekarza
+lozenge : pastylka do ssania
+malaise : złe samopoczucie
+myxovirus : miksowirus
+nutritional : dotyczący odżywiania
+resistance : odporność, oporność
+subside : cofać się (o chorobie objawach), ustępować
+infectious : Zakaźny
+communicable : zaraźliwy
+transmissible : zaraźliwe
+idiopathic : bez samoistnej przyczyny
+reportable : choroba podlegająca zgłoszeniu
+contamination : skażenie
+contamitent : współistniejący	
+resistant : być odpornym
+immune to : Być odpornym
+susceptible : podatny
+subsidence : ustępowanie objawów
+prevention : profilaktyka
+acquired : nabyty
+influenza : grypa
+flu : Grypa
+viral infection : infekcja wirusowa
+upper respiratory tract : górnych dróg oddechowych
+responsible : odpowiedzialne
+spread : rozprzestrzeniać się
+utensils : naczynia
+incubation period : okres inkubacji
+shivering : dreszcze
+muscle ache : ból mięśni
+sore throat : ból gardła
+hoarseness : chrypka
+runny nose : katar
+general malaise : ogólne złe samopoczucie
+mutate : zmutować
+treatment : leczenie
+antipyretics : przeciwgorączkowe
+analgesics : leki przeciwbólowe
+nasal spray : spray do nosa
+nasal discharge : wydzielina z nosa
+persist : trwa
+viral pneumonia : wirusowe zapalenie płuc
+secondary bacterial pneumonia : wtórne bakteryjne zapalenie płuc
+streptococcus : paciorkowiec
+prophylaxis : Profilaktyka
+vaccination : szczepienie ochronne
+crowded : zatłoczone
+life-long : trwający na całe życie
+congenital : wrodzony
+chronic : chroniczny
+inherited : dziedziczny
+metabolic : metaboliczny
+neoplastic : nowotworowa
+fatal : śmiertelny
+allergic : alergiczny
+endocrine : wewnątrzwydzielniczy
+gland : gruczoł
+diabetes : cukrzyca
+asthma : astma'
+peptic ulcer : wrzód trawienny
+hypertension : nadciśnienie	
+pneumonia : zapalenie płuc
+gout : dna
+rheumatoid : reumatoidalne
+arthritis : artretyzm
+carcinoma : rak
+measles : odra
+hyperthyroidism : nadczynność tarczycy
+haemophilia : hemofilia
+hay fever : katar sienny
+glomerulonephritis : kłębuszkowe zapalenie nerek
+fallot's tetralogy : tetralogia Fallota
+chicken pox : ospa wietrzna
+hepatitis : zapalenie wątroby
+anaemia : niedokrwistość
+cholecystolithiasis : kamica pęcherzykowa
+panacreatitis : zapalenie trzustki
+symptom : objaw
+sydrome : zespół objawów
+burn : oparzenie
+goitre : wole
+paralysis : paraliż
+deafness : głuchota
+tachypnoea : przyspieszony oddech
+amenorrhoea : brak menstruacji
+amnesia : amnezja
+pallor : bladość
+insomnia : bezsenność
+agitation : podniecenie
+tremor : drżenie
+haematuria : krwiomocz
+strabismus : zez
+hyperlipidemia : hiperlipidemia(podwyższonymi poziomami frakcji cholesterolu lub trójglicerydów w surowicy krwi)
+tinnitus : szum w uszach
+alopecia : łysienie
+stomachache : ból brzucha
+palpitation : Drżenie
+weight change : zmiana masy
+thirst : pragnienie
+astigmatism : astygmatyzm
+rash : wysypka
+exopthalmos : wytrzeszcz
+vertigo : zawrót głowy
+winking : zamigotać, mrugnąć
+intense sweating : intensywne pocenie się
+cyanosis : sinica
+anorexia : anoreksja
+excesive lacrimation : nadmierne łzawienie
+coma : śpiączka
+itching : swędzenie
+muscle guarding : OBRONA MIĘŚNIOWA	
+hyperglycemia : hiperglikemia
+myopia : krótkowzroczność
+chills : Dreszcze
+shortness of breath : duszność
+cough : kaszel
+sputum : plwocina
+dehydrated : odwodniony
+rapid : szybki
+shalow : płytki
+percussion : opukanie
+ausculation : opłukanie
+left unilateral : lewe jednostronne
+basal crepitations : trzeszczenie podstawnokomórkowego
+coarse rales : grube rzężenia
+sibilant rhonchi : syczący rhonchi
+distension : nabrzmienie
+tenderness : czułość
+bowel sounds : odgłosy z jelit
+steptococal pneumonia : paciorkowcowe zapalenie płuc
+ventricular hypertrophy : przerost komory serca
+tachycardia : tachykardia
+broke out : wybuchnąć (epidemia wybuchła)
+came down : spaść (populacja spadła)
+make an appointment : umówić się
+home call : wizyta domowa
+prescribed : przepisać
+round : obchód
+contracted : zapaść
+to come round : odzyskać przytomność
+strip : rozebrać się
+sick leave : zwolnienie chorobowe
+get out of : pozbyć się np. kaszlu
+antacid : związek zobojętniający kwas
+barium meal : papka barowa podawana do połknięcia przed badaniem RTG
+belching : odbijanie się
+combat : zwalczyć
+distension : rozdęcie, wzdęcie
+eradicate : wytępić wyniszczyć (bakterie, zakażenie)
+eradication : wytępienie wyniszczenie, likwidacja zakażenia
+erosion : nadżerka
+exacerbation : zaostrzenie (objawów)
+gnawing : gryzący
+H2-Receptor blocker ("2" na dole) : bloker receptorów wodorowych
+heal : goić się
+heartburn : zgaga
+intermittent : przerywany
+proton pump inhibitor : inhibitor pompy protonowej (wodorowej)
+perforation : perforacja, przedziurawienie
+suppress : przytłumić, powstrzymać, ograniczyć
+tenderness : tkliwość uciskowa, tkliwość palpacyjna
+vagotomy : przecięcie nerwu błędnego, wagotomia
+vagus : błędny (nerw)
+peptic ulcer : wrzód trawienny
+gastrointestinal tract : przewód pokarmowy
+gastric ulcer : wrzód gastryczny
+duodenal ulcer : wrzód dwunastnicy
+gastric acid : kwas żołądkowy
+pepsin : pepsyna
+duodenal mucosa : błony śluzowej dwunastnicy
+increased acid secretion : zwiększone wydzielanie kwasu
+decreased mucus production : zmniejszona produkcja śluzu
+irritate duodenal lining : podrażniać podszewki dwunastnicy 
+Helicobacter pylori : Helicobacter pylori
+burning pain : palący ból
+gnawing pain : gryzący ból
+nausea : nudności
+constipabation : zaparcie
+abdominal distention : wzdęcia
+mucosal biopsy : biopsja śluzówki
+gastric secretion : wydzielanie soku żołądkowego
+haemorhage : krwotok
+haematemesis : krwawe wymioty
+rectal polyps : polipy odbytnicy
+cramp : skurcz
+stabbing : przeszywający
+gastroenteritis : nieżyt żołądka i jelit
+acute appendicitis : ostre zapalenie wyrostka robaczkowego
+ulcerative colitis : wrzodziejące zapalenie okrężnicy
+esophageal ulcer : owrzodzenie przełyku
+alleviation : ulga
+regression : regresja
+subsidence : osiadanie
+mitigation : łagodzenie
+diarrhoea : biegunka
+melaena : krew w kale
+flatulence :  wzdęcie żołądka, bębnica
+diminishing : malejący
+inflamation : stan zapalny
+intestine : jelito
+adenocarcinoma : gruczolakorak, rak gruczołowy
+colitis : zapalenie okrężnicy
+colonoscopy : wziernikowanie okrężnicy
+colostomy : wytworzenie przetoki okrężniczo-skórnej, kolostomia
+excise : wyciąć
+extent : zakres, zasięg
+faeces : kał
+flexible : giętki
+forceps : kleszcze, szczypce
+incision : nacięcie
+laparotomy : otwarcie jamy brzusznej
+maligmant : złośliwy
+polyposis : polipowatość
+rectoscopy : wziernikowanie odbytnicy
+relapse : nawrót choroby
+sample : próbka
+specimen : Próbka
+ulcerative : wrzodziejący
+diet low in fibre : Dieta uboga w błonnik
+heredity : dziedziczność
+ageing : starzenie się
+colorectal cancer : raka jelita grubego
+constipation : zaparcie
+abdominal pain : ból brzucha
+bowel obstruction : niedrożność jelit
+metastases : przerzuty
+metastosis : przerzut
+anus : odbyt
+inoperable : nieoperowalne
+upsets : podrażnia
+does not interfere : nie wpływa
+diurnal activities : codzienny tryb życia
+rectal tenesmus : parcie
+decrease in appetite : zmniejszony apetyt
+hernia : przepłuklina
+can be coped with : można sobie z tym radzić
+barium enema : wlew barowy
+diverticulitis : zapalenie uchyłków
+ileitis : zapalenie jelita krętego
+suture, stitched, sewed up : zszyć
+relapse, recrudence : nawrót 
+dismiss : zwolnić
+blister : bąbel
+sting : ukłucie
+blotch : krosta
+adolescence : okres dojrzewania
+ensure : zapewnić
+fasting : na czczo
+gangrene : gangrena
+hyperglycaemia : podwższony poziom glukozy we krwii
+hypoglycaemia : hipoglikemia
+nephropathy : nefropatia
+neuropathy : neuropatia
+retinopathy : retinopatia
+source : źródło
+suscepitibility : podatność (na chorobę), skłonność
+diabetes mellitus : cukrzyca
+pancreas : trzustka
+islets of Langerhans : wysepki Langerhansa
+cappilaries : naczynka
+subcutaneus : podskórny
+atherosclerosis : miażdżyca
+cardiovascular : układu sercowo-naczyniowego
+polyuria : wielomocz
+moderately : umiarkowanie
+pancreatitis : zapalenie trzustki
+impairment : osbłabienie
+check up : wizyta kontrolna
+polyphagia : polifagia
+released : zwolniony
+dismissed : zwolniony z obowiązków
+angiography : angiografia
+atheroma : ognisko miażdżycowe
+bypass : przepływ omijający, połączenie omijające - utworzenie przepływu omijającego
+concious : przytomny
+conciousness : świadomość
+contract : kurczyć
+crushing  : miażdżący
+emboli : czopy zatorowe
+embolus : czop zatorowy
+embolism : zator
+fibrillation : drżenie włókienkowe, migotanie
+graft : przeszczep
+hyperlipidemia : podwyższony poziom lipidów
+insufficiency : niewydolność, niedobór
+ischaemia : niedokrwienie
+necrosis : martwica
+pacemaker : rozrusznik
+plaque : płytka, blaszka
+rupture : pęknięcie, rozerwanie
+sedentary : siedzący
+squeeze : nagły silny ból
+thrombi: skrzepliny
+thrombus : skrzeplina
+thrombosis : zakrzepica
+myocardial infarction : zawał mięśnia sercowego
+heart infract : zawał serca
+atherosclerosis : miażdżyca
+necrotic myocardium :  martwicze zapalenie mięśnia sercowego
+obesity : otyłość
+hypertension : nadciśnienie
+diabetes mellitus : cukrzyca
+coronary artery disease : choroba wieńcowa
+nausea : nudności
+dyspnoea : duszność
+arythmias : zaburzenia rytmu serca
+tachycardia : tachykardia
+bradycardia : bradykardia
+heart failure : niewydolność serca
+atrial fibrillation : migotanie przedsionków
+pericarditis : zapalenie osierdzia
+dressler's syndrome : zespół dresslera
+cardiogenic shock : szok kardiogenny
+heart septum : przegroda serca
+creatinine kinase : kinazy kreatyniny
+aspartate aminotransferase : aminotransferazy asparaginianowej
+lactate dehydrogenase : dehydrogenazy mleczanowej
+troponin : troponiny
+thrombolytic drugs : leki trombolityczne
+anticoagulants : leki przeciwzakrzepowe
+analgesics : leki przeciwbólowe
+antiarrhythmic drugs : leki antyarytmiczne
+antihypertensives : leki przeciwnadciśnieniowe
+angiotensin : angiotensyna
+diuretics : diuretyki
+nitroglycerin : nitrogliceryna
+balloon angioplasty : angioplastyka balonowa
+acute : ostry
+retrosternal : zamostkowy
+stout : gruby
+cyanotic : siniczy
+murmur : szmer
+apex : szczyt
+palpable : namacalny
+peristalsis : perystaltyka
+hyperthrophy : hipertrofia
+pectoris : piersiowa
+antrioventicular block : blok przedsionkowo-komorowy
+left venticular failure : niewydolność lewej komory
+congestive heart failure : zastoinowa niewydolność serca
+myocardial ischaemia : niedokrwienie mięśnia sercowego
+cardiac arrhythmia : arytmia serca
+valvular heart disease : wada zastawkowa serca
+mitral valve prolapse : wypadanie płatka zastawki dwudzielnej
+tricuspid valve disease : Choroba trójdzielnej zawór
+ventricular fibrillation : migotanie komór
+cardiac arrest : zatrzymanie akcji serca
+pericardial effusion : wysiąk osierdziowy
+sudden cardiac death : nagłej śmierci sercowej
+ankle oedema : kostki obrzęk
+anxiety : niepokój
+dyspnoea on exertion : duszność podczas wysiłku
+dyspnoea at rest : duszność w spoczynku
+epistaxis : krwawienie z nosa
+vertigo : zawrót głowy
+alveolus : pęcherzyk płucny
+respiratory system : układ oddechowy
+sac  : pęcherzyk
+tonsil : migdałek
+visceral : trzewny
+attach : przyłączyć
+basc : podstawa
+bloodstream : krwioobieg
+pharynx : gardło
+larynx : Krtań
+trachea : tchawica
+bronchi (pl), bronchus (sing)  : oskrzela
+bronchiole : oskrzelik
+cone : stożek
+factor : czynnik
+hoarseness : chrypka
+hurt : zranienie
+laryngopharynx : krtaniowa część gardła
+line : linia, wyścielić
+lobe : płat
+lung : płuco
+alveoli of the lungs : pęcherzyki plucne
+nasal septum : przegroda nosowa
+nasal cavity : jama nosowa
+posteriorly : tyłowi
+nasopharynx : część nosowa gardła
+oropharynx : część ustna gardła
+parietal : ścienny
+cartilages : chrząstki
+vocal cords : struny głosowe
+capillaries : naczynka
+lobes : płaty
+serous membrane : błona surowicza
+pleura : opłucna
+clavicle : obojczyk
+epiglottis : nagłośnia
+sore throat : ból gardła
+auscultate : opukać
+Thoracolumbar : piersiowo lędźwiowy
+Pleuracotamy : drenaż jamy opłucnej
+Pharyngoscopy : wziernikowanie gardła
+Laryngoscopy : wziernikowanie krtani
+Rhinopathy : choroba nosa
+Bronchoconstriction : zwężenie oskrzeli
+Tracheospasm : skurcz tchawicy
+respiration : oddychanie
+reversible : odwracalny
+absorb : wchłaniać
+absorption : wchłanianie
+sacs : woreczki
+diffuses : przenikać, rozproszony, rozpraszać
+accessory : dodatkowy, pomocniczy
+accessory organs : poboczne organy
+intercostal muscles : mięśni międzyżebrowych
+intercostal : międzyżebrowe
+involve : wciągnąć (w proces chorobowy)
+ribs : żebra
+blaish : niebieskawy
+capillary : naczynie włosowate
+consecutive : kolejny
+distension : rozszerzanie
+enlarge : powiększyć
+exhale : wydychać
+distress : ciężki stan, wyczerpanie
+tonsillitis : zapalenie migdałków
+volume : objętość, pojemność
+inspiration : wdech
+expiration : wydech
+influenza : grypa
+obstruct : zatkać, zaczopować
+oxygen : tlen
+rhinitis : katar, nieżyt nosa
+pharyngitis : zapalenie gardła
+laryngitis : zapalenie krtani
+bronchitis : zapalenie oskrzeli
+pneumonia : zapalenie płuc
+pleuritis : zapalenie opłucnej
+spasmodic : spazmatyczny, skurczowy
+contraction : skurcz
+bronchospasm : skurcz oskrzeli
+pollen : pyłek
+Emphysema : rozedma
+alveoli : pęcherzyki płucne
+enzyme : enzym
+respiratory distress syndrome : zespół zaburzeń oddechowych
+benign : łagodny
+sputum production : odkrztuszanie plwociny
+nasal discharge : wydzielina z nosa
+haemoptysis : krwioplucie
+cyanosis : sinica
+malaise : złe samopoczucie
+air sac : Pęcherzyk płucny
+armpit : pacha 
+collarbone : Obojczyk
+kneecap : rzepka
+limb : kończyna
+shoulder blade : łopatka
+small of the back : krzyż
+spinal column : kręgosłup
+voice box : krtań
+windpipe : Tchawica
+flexible : giętki
+anemia : anemia
+fluid : płyn
+carbon dioxide : dwutlenek węgla
+plasma : osocze krwi
+carbohydrates : węglowodany
+dissolved : rozpuszczony
+dissolve : rozpuścić
+dizziness : zawrót głowy
+suspended : zawieszony
+lung capillary : kapilary płuc
+granulocytes : granulocyty
+basophils : bazofile, leukocyt zasadochłonny
+eosinophils : granulocyt eozynochłonny
+neutrophils : neutrofil, granulocyt obojętnochłonny
+monocytes : monocyty
+ingest : przyjmować pokarm,
+blood coagulation, blood clotting : krzepnięcia krwi
+coagulation : krzepnięcie
+pale : blady
+leukaemia : białaczka
+bone marrow : szpik kostny
+lymph nodes : węzły chłonne
+oedema : otyłość, obrzęk
+dyspnoea : duszność
+exertion : wysiłek
+angina pectoris : dusznica bolesna
+ventricular hypertrophy : przeróst komór
+strain : odkształcenie
+diuretics : diuretyki
+phlebitis : zapalenie żyły
+cardiomegaly : powiększenie serca
+Hematologi : nauka o krwi
+Sanguinopoietic : krwiotwórczy
+Angiography : angiografia
+Vascularity : unaczynienie
+malignant neoplasm : złośliwy nowotwór
+malignant : złośliwy
+connective tissue : tkanka łączna
+constituent : składnik
+count : ilość, liczyć
+deffensive mechanism : mechanizm obronny
+decrease : zmniejszać
+deficiency : niedobór
+enlargement : powiększenie
+erythrocyte : erytrocyt, krwinka czerwona
+haemoglobin : hemoglobina
+impair : upośledzić, uszkodzić
+increase : wzrastać
+leukocyte : leukocyt, krwinka biała
+leukocytosis : leukocytoza, zwiększony poziom leukocytów we krwi
+leukopenia : leukopenia
+matrix : substancja podstawowa
+multiplication : pomnożenie
+nucleated : jądrzasty 
+obese : otyły
+sedimentation rate : szybkość opadania
+thrombocyte : trombocyt, płytka krwi
+Cardiovascular system : układ sercowo-naczyniowy
+blood vessels : naczynia krwionośne
+arteries : tętnice
+arterioles : tętniczki
+capillaries : naczynka
+venules : żyłki
+cone-shaped : stożkowy
+hollow : pusty
+apex : wierzchołek
+pericardium : osierdzie
+myocardium : mięsień sercowy
+endocardium : wsierdzie
+atrium, atria, auricles : przedsionki
+pericarditis : zapalenie osierdzia
+ventricles : komory
+atrioventricular : przedsionkowo komorowy
+mitral valve, bicuspid valve : zastawka mitralna, zastawka dwudzielna
+tricuspid valve : zastawka trójdzielna
+flap : zapadka
+pulmonary circulation : krążenie płucne
+pulmonary vein : żyły płucne
+vena cava : żyła główna
+hepatic vein : żyła wątrobowa
+renal vein : żyły nerkowej
+coronary artery : wieńcowa
+abdominal : brzuszny
+trunk : tułów
+congenital : wrodzony
+patent ductus arteriosus : drożny przewód tętniczy
+coarctation of aorta : zwężenie aorty
+Fallot’s tetralogy : tetralogia Fallota
+inflamation of aorta : Zapalenie aorty
+arteriosclerosis : miażdżyca
+clot : skrzep, grudka
+myocardial infraction : zawał mięśnia sercowego
+hypertension : nadciśnienie
+heredity : dziedziczność
+heart murmurs : szmery serca
+severe : ciężki
+auscultation : osłuchiwanie
+percussion : opukanie
+ankle swelling : obrzęk stawu skokowego
+kidney : nerka
+coronary angioplasty : angioplastyka wieńcowa
+accompany : towarzyszyć
+acquired : nabyty
+arteriole : tętniczka
+atria : przedsionek
+coronary circulation : krążenie wieńcowe
+endocarditis : zapalenie wsierdzia
+lumen : światło (przewodu)
+myocarditis : zapalenie mięśnia sercowego
+portal circulation : krążenie wrotne
+pulmonary : płucny
+septum : przegroda
+spread : rozprzestrzeniać
+systemic circulation : krążenie ogólnoustrojowe
+thrombus : skrzeplina
+tightness : ciasnota, ściskanie
+valve : zastawka
+vein : żyła
+ventricle : komora (sercowa)
+venule : żyłka
+digestive : trawienny
+digestive system : układ pokarmowy
+tissues : tkanki
+gastrointestinal system : Układ pokarmowy
+oesophagus : przełyk
+intestine : Jelito
+salivary glands : ślinianki
+salivary gland : gruczoł ślinowy 
+parotid : przyuszny
+submandibular : podżuchwowy
+sublingual glands : gruczoły podjęzykowe
+saliva : ślina
+Eustachian tube : trąbka Eustachiusza
+tonsils : migdałki
+thorax : klatka piersiowa
+sack : worek
+ovoid : jajowaty
+diaphragm : przepona
+mucous membrane : błona śluzowa
+hydrochloric acid : kwas solny
+digestion : trawienie
+cardiac sphincter : zwieracza serca
+pyloric sphincter : zwieracza odźwiernika
+duodenum : dwunastnica
+jejunum : jelita czczego
+ileum : jelito kręte, krętnica
+bile duct : przewód żółciowy
+caecum : kątnica
+colon : okrężnica
+vermiform appendix : wyrostek robaczkowy
+ascending colon : okrężnica wstępująca
+transverse colon : okrężnica poprzeczna 
+descending colon : okrężnica zstępująca
+sigmoid colon : esica, okrężnica esowata 
+rectum : prostnica, odbytnica
+terminal  part : końcowa część
+anus : odbyt
+gallbladder : woreczek żółciowy, pęcherzyk żółciowy
+pancreas : trzustka
+parotid gland : Ślinianka przyuszna   
+submaxillary gland : Ślinianka podżuchwowa
+sublingual gland : Ślinianka podjęzykowa
+spleen : sledziona
+secrete : wydziela
+bowel : jelito
+cecum : jelito ślepe
+bowel movements : wypróżnienia
+diarrhoea : biegunka
+Gastritis :  nieżyt żołądka
+Duodenopathy : choroba dwunastnicy
+Colitis : nieżyt jelita grubego
+Rectostenosis : zwężenie odbytnicy
+Cholecystis : zapalenie pęcherzyka żółciowego
+Anovesical : odbytowo-pęcherzowy
+Hepatitis : zapalenie wątroby
+Pancreatitis : zapalenie trzustki
+cardia : wpust
+gastric juice : sok żołądkowy
+gum : dziąsło
+liver : wątroba
+muscular : mięśniowy
+nausea : nudności
+pylorus : odźwiernik
+relieve : złagodzić
+sigmoid : esica
+stomach : żołądek
+sublingual : podjęzykowy
+throat : Gardło
+tongue : język
+vomit : wymiotować
+aim : cel celować
+approach : podejście
+area : obszar
+complain : skarżyć się, narzekać
+complaint : skarga, dolegliwość
+concern : zainteresować, dotyczyć, zajmować się
+consideration : rozwaga 
+take into consideration : wziąć, brać coś pod uwagę
+cure : leczyć, wyleczyć
+dietician : dietetyk
+duty : obowiązek, dyżur
+enviroment : otoczenie, środowisko
+examination : badanie
+physical examination : badanie fizykalne
+general practitioner : lekarz ogólny
+A gynaecologist : ginekolog
+indicate : wskazać, zalecić
+holistic : holistyczny
+laboratory technician : laborant
+medication : Lek
+A obstetrician : położnik
+occupational : zawodowy, zajęciowy
+pharmacist : farmaceuta
+physiotherapist : fizjoterapeuta
+precise : dokładny, precyzyjny
+prevention : zapobieganie
+radiographer : radiolog
+recognize : rozpoznawać
+relationship : związek, stosunek
+relieve : złagodzić, zelżeć
+remedial gymnast : instruktor gimnastyki leczniczej
+require : wymagać
+sedentary : siedzący
+speciality : specjalność
+treat : leczyć
+suffering : cierpienie
+treatment : leczenie
+pharmacological : farmakologiczny
+surgical : chirurgiczny
+physical condition : kondycja fizyczna
+disease : choroba
+clinical diagnosis : diagnoza kliniczna
+homeopathy : homeopatia
+naturopathy : medycyna naturalna
+herbal medicine : medycyna ziołowa
+A dermatologist : dermatolog
+A otolaryngologist : otolaryngolog, otorynolaryngolog (specjalista chorób uszu, nosa, gardła i krtani)
+dispensary : przychodnia
+pediatrician : pediatra
+An allergist : alergolog
+allergology : alergologia
+An immunologist : immunolog
+immunology : immunologia
+An anesthesiologist : anestezjolog
+anesthesiology : anestezjologia
+A geriatrician : geriatra
+geriatrics : geriatria
+A ophthalmologist : okulista
+ophthalmology : okulistyka
+psychiatrist : psychiatra
+psychiatry : psychiatria
+otolaryngology : otolaryngologia
+A general surgeon : chirurg
+surgery : chirurgia
+A neurologist : neurolog
+neurology : neurologia
+A plastic surgeon : chirurg plastyczny
+plastic surgery : Chirurgia plastyczna
+A urologist : urolog
+urology : urologia
+Mononuclear : jednojądrzasty
+Uniglandular : jednogruczołowy
+Bilobular : dwupłatkowy
+Dizygotic : dwuzygotowy
+Hemiparesis : niedowład połowiczy
+Apnea : bezdech
+Anorexia : brak łaknienia
+Ambivalent : ambiwalentny
+Asepsis : aseptyka
+diplopia : podwójne widzenie
+unilateral : jednostronny
+bilateral : dwustronny
+monochromatic : monochromatyczny
+hemisphere : półkula
+hemiplegia : hemiplegia
+bifocal : dwuogniskowy
+binocular : obuoczny, dwuoczny, lorneta
+hemicolectomy : zabieg polegający na wycięciu części jelita grubego
+monosaccharide : monosacharydem
+monofocal : jednoogniskową
+diplococcus : dwoinka, diplokok
+illness : Choroba
+prognosis : rokowanie
+specimen : okaz
+survive : przetrwać
+Drug : lek
+prediction : prognoza
+sample : próbka
+ailment : dolegliwość
+tool, utensil : narzędzie
+remedy : lekarstwo
+bone marrow : szpik kostny
+counselling : poradnictwo
+donor : dawca
+excision : wycięcie
+immune system : układ odpornościowy
+immunosuppressant : środek immunosupresyjny
+laser : laser
+lithotripsy : kruszenie kamieni
+palliative : paliatywny, łagodzący
+recipient : biorca
+rejection : odrzucenie
+substitute : substytut, zastępowainie, podstawianie
+tiny : mały
+ultrasonography : ultrasonografia
+radiation therapy : radioterapia
+endoscope : endoskop
+transplant surgery : operacja przeszczepu
+hip joint : staw biodrowy
+heart valves : zastawki serca
+lens : soczewka
+cysts : torbiele
+derived from plants : pochodzące z roślin
+antimicrobials : środki przeciwdrobnoustrojowe
+respiratory rate : częstość oddechów
+severely : ciężko
+radium : rad
+conservative : konserwatywny
+adjuvant : środek wspomagający
+ambulatory : ambulatoryjny
+prophylactic : profilaktyczny
+emergency : przeciwawaryjny, nagły przypadek
+exploratory : badawczy
+radical : radykalny
+reconstructive : rekonstrukcyjna
+antipyretic : przeciwgorączkowy
+antihypertensive : przeciwnadciśnieniowe
+antiinflammatory : przeciwzapalne
+anticoagulant : przeciwzakrzepowe
+antihistamic : przeciwhistaminowy
+aperient : środek przeczyszczający
+gradual : stopniowy
+rapid : szybki
+uneventful : spokojny
+unexpected : nieoczekiwany
+encouraging : zachęcający
+reliable : niezawodny
+striking : uderzający
+immediate : natychmiastowy
+excellent : doskonały
+mild : łagodny
+temporary : tymczasowy
+permanent : stały
+kidney stones : kamienie nerkowe
+retina detachment : odwarstwienie siatkówki
+hip joint degeneration : Zwyrodnienie stawu biodrowego
+impaired movement : zaburzenia ruchu
+healed leg fracture : Uzdrowienie nogi złamania
+respiratory distress : niewydolności oddechowej
+cardiac failure : Niewydolność serca
+rectal polyps : polipy odbytnicy
+Hypertension : nadciśnienie
+Hypoglycemia : hipoglikemia
+Macrocephaly : wielkogłowie
+Multigravida : wieloródka
+Oliguria : skąpomocz
+Polyuria : wielomocz
+Microcephalus : małogłowie
+multilobar : wielopłatowy?
+oligodontia : oligodontia, zmniejszona liczba zębów
+macrocolon : okrężnica olbrzymia
+hyperthyroidism : nadczynność tarczycy
+hypotension : niedociśnienie
+multilateral : wielostronny
+oligopnea : zmniejszenie częstości oddechów
+Micronodular : drobnoguzkowy
+macrocornea : rogówka olbrzymia
+hypercardia : przerost serca
+polynuclear : wielopierścieniowe
+hypometabolism : obniżenie przemiany materii
+polymorphism : polimorfizm, wielopostaciowość
+hypersensitivity : nadwrażliwość
+loss of consciousness : utrata przytomności
+nausea : nudności
+chest pain : ból w klatce piersiowej
+diarrhoea : biegunka
+hoarseness : chrypka
+ankle oedema : obrzęk stawu skokowego
+paresis : niedowład
+cyanosis : sinica
+astigmatism : astygmatyzm
+back pain : ból pleców
+joint stiffness : sztywność stawów
+muscle guarding : ochrona mięśni?
+conjunctivitis : zapalenie spojówek
+dyspnoea : duszność
+haematuria : krwiomocz
+pimples : pryszcze
+belching : odbijanie
+paralysis : paraliż
+rhinitis : katar
+numbness of the fingers : drętwienie palców
+dandruff : łupież
+arterial murmur : szmer tętniczej?
+retrosternal pain : ból zamostkowy
+cholecystolithiasis : Kamica pęcherzykowa
+dementia : demencja
+incontinence : nietrzymanie moczu
+coarse rales : rzężenia grubobańkowe
+tinnitus : szum w uszach
+acne : trądzik
+anuria : bezmocz
+epileptic seizures : napady padaczkowe
+crepitations : trzeszczenia
+migraine : migrena
+urticaria : pokrzywka
+heartburn : zgaga
+pleural friction : tarcia opłucnej
+tachycardia : tachykardia
+tachypnoea : przyspieszony oddech
+wheezes : dyszeć, sapać
+haematemesis : krwawe wymioty, wymioty fusowate
+insomnia : bezsenność
+haemorrhage : krwotok
+syncope : omdlenie
+pallor : bladość
+strabismus : zez
+deafness : głuchota
+respiratory system : układ oddechowy
+cardiovascular system : układ sercowo-naczyniowy
+gastrointestinal system : układ pokarmowy
+genitourinary system : układ moczowo-płciowy
+central  nervous system : ośrodkowy układ nerwowy
+musculoskeletal system : układ mięśniowo-szkieletowy
+abdomen : jama brzuszna
+affect : atakować
+ankle : kostka u nogi
+arm : ramię
+armpit : pacha
+bend : schylać się, zginać
+body : ciało
+bone : kość
+calf : łydka
+cavity : jama
+cell : komórka
+cheek : policzek
+chest : klatka piersiowa
+chin : broda, podbródek
+consist : składać się
+diaphragm : przepona
+elbow : łokieć
+eye : oko
+eyelash: rzęsa
+eyelid : powieka
+face : twarz
+foot, (pl. feet) : stopa, stopy
+forearm : przedramię
+forehead : czoło
+groin : pachwina
+hand : ręka, dłoń
+head : głowa
+heart : serce
+hollow : wydrążony
+hip : biodro
+joint : staw
+knee : kolano
+leg : podudzie
+limb : kończyna
+lip : warga
+loin : lędźwie
+maintain : utrzymać (na tym samym poziomie)
+mouth : usta
+navel : pępek
+neck : szyja
+nose : nos
+overdo : przemęczyć się
+radiate : promieniować
+shoulder : bark
+skull : czaszka
+spine : kręgosłup
+stab : wbić, ukłuć
+thigh : udo
+thorax : Klatka piersiowa
+thumb : kciuk
+tingling : mrowienie, cierpnięcie
+tissue : tkanka
+toe : palec u nogi
+trunk : tułów
+wrist : nadgarstek
+palm : dłoń
+Finger nail : paznokieć
+heel : pięta
+instep : stęp
+composed of : składa się
+unite : jednoczyć się
+the ciculatory system : system krążenia
+ovoid : jajowaty
+joints : stawy
+shoe laces : sznurowadła
+sensation : uczucie
+blood vessels : naczynia krwionośne
+arteries : tętnice
+arterioles : tętniczki
+capillaries : naczynka
+venules : żyłki
+cone-shaped : stożkowy
+hollow : pusty
+apex : wierzchołek
+pericardium : osierdzie
+myocardium : mięsień sercowyop
+endocardium : wsierdzie
+atrium, atria, auricles : przedsionki
+pericarditis : zapalenie osierdzia
+ventricles : komory
+atrioventricular : przedsionkowo komorowy
+mitral valve, bicuspid valve : zastawka mitralna, zastawka dwudzielna
+tricuspid valve : zastawka trójdzielna
+flap : zapadka
+pulmonary circulation : krążenie płucne
+pulmonary vein : żyły płucne
+vena cava : żyła główna
+hepatic vein : żyła wątrobowa
+renal vein : żyły nerkowej
+coronary artery : wieńcowa
+abdominal : brzuszny
+trunk : tułów
+congenital : wrodzony
+patent ductus arteriosus : drożny przewód tętniczy
+coarctation of aorta : zwężenie aorty
+Fallot’s tetralogy : tetralogia Fallota
+inflamation of aorta : Zapalenie aorty
+arteriosclerosis : miażdżyca
+clot : skrzep, grudka
+myocardial infraction : zawał mięśnia sercowego
+hypertension : nadciśnienie
+heredity : dziedziczność
+heart murmurs : szmery serca
+severe : ciężki
+auscultation : osłuchiwanie
+percussion : opukanie
+ankle swelling : obrzęk stawu skokowego
+kidney : nerka
+coronary angioplasty : angioplastyka wieńcowa
+accompany : towarzyszyć
+acquired : nabyty
+arteriole : tętniczka
+atria : przedsionek
+coronary circulation : krążenie wieńcowe
+endocarditis : zapalenie wsierdzia
+lumen : światło (przewodu)
+myocarditis : zapalenie mięśnia sercowego
+portal circulation : krążenie wrotne
+pulmonary : płucny
+septum : przegroda
+spread : rozprzestrzeniać
+systemic circulation : krążenie ogólnoustrojowe
+thrombus : skrzeplina
+tightness : ciasnota, ściskanie
+valve : zastawka
+vein : żyła
+ventricle : komora (sercowa)
+venule : żyłka
+digestive : trawienny
+digestive system : układ pokarmowy
+tissues : tkanki
+gastrointestinal system : Układ pokarmowy
+oesophagus : przełyk
+intestine : Jelito
+salivary glands : ślinianki
+salivary gland : gruczoł ślinowy 
+parotid : przyuszny
+submandibular : podżuchwowy
+sublingual glands : gruczoły podjęzykowe
+saliva : ślina
+Eustachian tube : trąbka Eustachiusza
+tonsils : migdałki
+thorax : klatka piersiowa
+sack : worek
+ovoid : jajowaty
+diaphragm : przepona
+mucous membrane : błona śluzowa
+hydrochloric acid : kwas solny
+digestion : trawienie
+cardiac sphincter : zwieracza serca
+pyloric sphincter : zwieracza odźwiernika
+duodenum : dwunastnica
+jejunum : jelita czczego
+ileum : jelito kręte, krętnica
+bile duct : przewód żółciowy
+caecum : kątnica
+colon : okrężnica
+vermiform appendix : wyrostek robaczkowy
+ascending colon : okrężnica wstępująca
+transverse colon : okrężnica poprzeczna 
+descending colon : okrężnica zstępująca
+sigmoid colon : esica, okrężnica esowata 
+rectum : prostnica, odbytnica
+terminal  part : końcowa część
+anus : odbyt
+gallbladder : woreczek żółciowy, pęcherzyk żółciowy
+pancreas : trzustka
+parotid gland : Ślinianka przyuszna   
+submaxillary gland: Ślinianka podżuchwowa
+sublingual gland : Ślinianka podjęzykowa
+spleen : sledziona
+secrete : wydziela
+bowel : jelito
+cecum : jelito ślepe
+bowel movements : wypróżnienia
+diarrhoea : biegunka
+Gastritis :  nieżyt żołądka
+Duodenopathy : choroba dwunastnicy
+Colitis : nieżyt jelita grubego
+Rectostenosis : zwężenie odbytnicy
+Cholecystis : zapalenie pęcherzyka żółciowego
+Anovesical : odbytowo-pęcherzowy
+Hepatitis : zapalenie wątroby
+Pancreatitis : zapalenie trzustki
+cardia : wpust
+gastric juice : sok żołądkowy
+gum : dziąsło
+liver : wątroba
+muscular : mięśniowy
+nausea : nudności
+pylorus : odźwiernik
+relieve : złagodzić
+sigmoid : esica
+stomach : żołądek
+sublingual : podjęzykowy
+throat : Gardło
+tongue : język
+vomit : wymiotować
+amino acid : aminokwas
+antacid : związek zobojętniający kwas
+bile : żółć
+carcinoma : rak
+chew : żuć
+chyme : miazga pokarmowa
+colitis : zapalenie okrężnicy
+diarrhoea : biegunka
+discomfort : dolegliwość, złe samopoczucie
+diverticulitis : zapalenie uchyłka
+erosion : nadżerka
+exacerbation : zaostrzenie
+excessive : nadmierny
+faeces : kał, stolec
+fat : tłuszcz
+fatty acid : kwas tłuszczowy
+gastritis : zapalenie, nieżyt żołądka
+glycerol : gliceryna, glicerol
+haematemesis : wymioty krwawe
+maltose : malotoza
+melaena : smołowate stolce
+moisten : zwilżyć
+moistened : zwilżane, zwilżona
+patch : łata
+peristalsis : ruch robaczkowy jelit
+protein : białko
+ptyalin : ptialina
+rennin : podpuszczka
+starch : skrobia
+ulcer : wrzód
+villi(pl.) villus(sing.) : kosmki
+salivary amylase : 	amylaza ślinowa, ptyalina
+secrete : wydzielać
+hydrochloric acid : kwas chlorowodorowy
+pepsin : pepsyna
+lipase : lipazy
+peptones : peptony
+semi-liquid : półpłynne
+small intestine : małe jelito
+pancreatic juice : sok trzustkowy
+pancreas : trzustka
+peptides : peptydy
+carbohydrates : węglowodany
+intestinal juice : sok jelitowy
+aminopeptidase : aminopeptydaza
+sucrase : sacharazy
+lactase : laktazy
+lactose : laktoza
+maltase : maltaza
+sucrose : sacharoza
+glucose : glukoza
+fructose : fruktoza
+galactose : galaktozy
+nausea : nudności
+malnutrition : niedożywienie
+abdominal pain : ból brzucha
+duodenum : dwunastnica
+peptic ulceration : choroba wrzodowa
+mucous membrane : błona śluzowa
+perforation : perforacja, przekłucie
+pancreatic amylase : amylaza trzustkowa
+trypsin : trypsyny
+chymotrypsin : chymotrypsyna
+Carboxypeptidase : karboksypeptydaza
+Polysaccharides : polisacharydy
+tenderness : czułość
+superficial palpation : powierzchowne badanie palpacyjne
+epigastric abdominal area : nadbrzusze
+appendectomy : wycięcie ślepej kiszki
+appendix : wyrostek robaczkowy	
+Lipids : lipidy
+Polypeptides : polipeptydy
+anuria : bezmocz
+bladder : pęcherz
+calyx : kielich (nerki)
+cortex : kora
+dysuria : bolesne, trudne oddawanie moczu
+failure : niewydolność
+glomerulus : kłębuszek nerkowy
+haematuria : krwiomocz
+incontinence : nietrzymanie moczu
+kidney : nerka
+lesion : zmiana chorobowa
+medulla : rdzeń, substancja rdzenna
+neoplasm : nowotwór
+nephritis : zapalenie nerek
+nephroblastoma : nerczak niedojrzały, guz Wilmsa
+nephron : nefron
+nocturia : nadmierna diurcza nocna
+oliguria : skąpomocz
+pelvis : miedniczka nerkowa
+pyelonephritis : odmiedniczkowe zapalenie nerek
+pyuria : ropomocz
+retention : zatrzymanie, wstrzymanie
+secrete : wydzielać
+tiny : mały
+trace : ślad
+tubule : kanalik nerkowy
+uraemia : mocznica
+ureter : moczowód
+urethra : cewka moczowa
+urinary system, genitourinary system : układ wydalniczy
+urine : mocz
+Hilus : wnęka
+Vena cava : żyła główna
+Systemic artery : tętnica systemowa?
+Renal artery : Tętnica nerkowa
+Renal vein : żyła nerkowa
+posterior abdominal wall : tylna ściana brzucha
+kidney capsule (ta na obrazku) : kapsułka nerek?? może otoczka?
+coiled : zwoje
+capillaries : naczynka
+Bowman's capsule : Torebki Bowmana
+obstruct (obstruct the urine flow) : blokować
+Urinary tract : drogi moczowe ?
+cystitis : zapalenie pęcherza
+tissue oedema : obrzęk tkanki
+malignant neoplasms : nowotwory złośliwe
+urolithiasis : kamica nerkowa
+renal failure : niewydolność nerek
+malaise : złe samopoczucie
+nausea : nudności
+vomiting : wymioty
+lethargy : letarg
+mental confusion : splątanie
+glycosuria : cukromocz
+ketonuria : ketonuria
+proteinuria : białkomocz
+polyuria : wielomocz
+Urolithiasis : kamica moczowa
+Nephrodema : obrzęk nerki
+Urethritis : zapalenie cewki moczowej
+Ureterostoma : przetoka moczowodu
+Hysterectomy : wycięcie macicy
+Colposcopy : wziernikowanie pochwy
+Orchitis : zapalenie jąder
+Genitourinary : moczowo-płciowy
+Belly/tummy : brzuch
+Bowel/gut : jelito
+Childbirth : poród
+Digestive system : układ pokarmowy
+Excretory system : wydalniczy system
+Genitals : genitalia
+Gums : dziąsła
+Lower jaw : Dolna szczęka
+Mouth : usta
+Stone : kamień
+Stool : stolec
+Upper jaw : szczęka
+Urinary stones : kamienie moczowe
+Water : woda
+Waterworks : wodociąg
+Watery stool : wodnisty stolec
+abscess : ropień
+accelerate : przyśpieszać
+autonomic : autonomiczny
+axon : akson
+brain : Mózg
+bundle : pęczek, wiązka
+central : centralny
+cerebellum : móżdżek
+cerebrum : mózg
+concussion : wstrząs
+consciousness : przytomność
+degeneration : degeneracja, zwyrodnienie
+dementia : demencja
+dendrite : dendryt
+dizziness : zawrót głowy
+drowsiness : senność, ospałość
+encephalitis : zapalenie mózgu
+environment : otoczenie, środowisko
+epileptic seizure : napad padaczkowy
+fold : fałd, zagięcie
+gray matter : substancja szara
+handicap : upośledzenie
+hemisphere : półkula
+hydrocephalus : wodogłowie
+impulse : impuls
+meninges : opony
+meningitis : zapalenie opon mózgowych
+migraine : migrena
+multiple screlosis : stwardnienie rozsiane
+myelin : mielina
+nervous system : układ nerwowy
+neurosis : nerwica
+parasympathetic : przyswpółczulny
+paresis : niedowład, parcza
+peripheral : obwodowy
+persistent : uporczywy
+photophobia : światłowstręt
+projection : wystawanie
+spinal cord : rdzeń kręgowy
+stem : pień
+stroke : udar, porażenie, apopleksja
+sympathetic : współczólny
+synapse : synapsa
+thread : nić
+throbbing : pulsujący
+traumatic : urazowy
+voluntary : dobrowolny, nieprzymusowy
+white matter : substancja biała
+central nervous system : centralny system nerwowy
+peripheral nervous system : obwodowy system nerwowy
+autonomic nervous system : autonomiczny system nerwowy
+cell : komórka
+branched projections : rozgałęzione wystawianie ???
+cytoplasm : cytoplazma
+nucleus : jądro
+conducts : przewodzi
+synaptic knobs: ???, knob - gałka, główka, wybrzuszenie, wypukłość, wypuklina, guzek, gula, głowica
+transmission of impulses : przekazywanie impulsów
+place of junction : miejsce skrzyżowania
+neurotransmitters : neuroprzekaźniki
+cerebral nerves : nerwy mózgowe
+spinal nerves : nerwów rdzeniowe
+corpus callosum : Ciało modzelowate
+frontal lobe : płat czołowy
+thalamus : wzgórze
+hypothalamus : podwzgórze
+olfactory lobe : płat węchowy
+pituitary gland : przysadka mózgowa
+pons (na obrazku) : ???
+Medulla oblongata (na obrazku jest "obligata" na necie jest wszędzie "oblonogata") : rdzeń przedłużony
+Corpora quadrigemina : korpusy quadrigemina ???
+pineal gland : szyszynka
+occipital lobe : płat potyliczny
+cranial cavity : jama czaszkowa
+brain stem : pień mózgu
+longitudinal fissure : szczelina podłużna
+cell body : ciało komórki
+myelinated nerve fibres : mielinowych włókien nerwowych
+voluntary movement : dobrowolne ruch
+sensory impulses : impulsy zmysłowe
+motor impulses : impulsy motoryczne
+involuntary action : mimowolne działania
+congenital : wrodzony
+degenerative : zwyrodnieniowe
+infectious : zaraźliwy
+brain abscess : brain abscess
+disturbances in the brain development : zaburzenia rozwoju mózgu
+congenital mental handicap : wrodzone upośledzenie umysłowe
+mental retardation : upośledzenie umysłowe
+metastases : przerzuty
+lesions : zmiany
+atherosclerosis : miażdżyca
+hypertension : nadciśnienie
+hemiparesis : niedowład połowiczy
+paralysis : paraliż
+Dilates : rozszerza
+Constricts pupil : zwęża źrenicę
+Decreases secretion : zmniejsza wydzielanie
+slows peristalsis : spowalnia perystaltykę
+Neuropathy : neuropatia, choroba układu nerwowego
+Auriculocranial : uszno-czaszkowy
+Otoplasty : operacja plastyczna ucha zewnętrznego
+Ophthalmia : zapalenie gałki ocznej
+oculophacial : oczno-twarzowy
+cerebrospinal : mózgowo-rdzeniowy
+aqueous humor : ciecz wodnista oka
+cataract : zaćma
+choroid : naczyniówka oka
+con : czopek
+concave : wklęsły
+conjunctiva : spojówka
+convex : wypukły
+cornea : rogówka
+cross-eye : zez zbieżny
+detachment : odwarstwianie się, odklejanie się
+eye : oko
+eyeball : gałka oczna
+eyebrow : brew
+eyelid : powieka
+eye socket : oczodół
+focus : skupiać, ogniskować
+glaucoma : jaskra
+hypermetropia : Dalekowzroczność
+imbalance : brak rónowagi
+iris : tęczówka
+lacrimal gland : gruczoł łzowy
+lens : soczewka
+light ray : promień świetlny
+long-sightedness : dalekowzroczność
+myopia : Krótkowzroczność
+occur : występować, mieć miejsce
+opacity : nieprzezroczystość
+perception : postrzeganie
+protective organ : organ ochronny
+pupil : źrenica
+retina : siatkówka
+rod : pręcik
+sclera : twardówka
+sense organ : narząd zmysłu
+short-sightedness : krótkowzroczność
+squint : zez
+strabismus : Zez
+stye : jęczmień
+suspensory ligament : wiązadło podtrzymujące
+vision : wzrok
+vitreous humor : ciecz szklista oka
+bony eye socket : kościsty oczodół
+the white of the eye : Twardówka
+dim : przyciemnione
+dilates : rozszerza
+relaxes : poluźnia
+crystalline lens : soczewki krystaliczne
+anterior chamber : przednia komora
+fovea : dołek środkowy (siatkówki oka)
+optic nerve : nerw wzrokowy
+papilla : brodawka
+vitreous body : ciało- szkliste
+ciliary processes : wyrostki rzęskowe
+posterior chamber : komora tylna
+innermost : najgłębszy
+light-sensitive : światło czułe
+cross-eyes : zez!
+prickling pain : mrowiący ból
+congenital : wrodzony
+ophthalmoscope : Oftalmoskop
+acoustic nerve : nerw słuchowy
+anvil (Incus) : kowadełko
+athetosis : atetoza, powolne ruchy palców
+auditory : słuchowy
+pinna (auricle) : małżowina uszna
+cartilage : chrząstka, tkanka chrzęstna
+cerebral palsy : paraliż, porażenie mózgowe
+cochlea : ślimak
+convert : zamienić
+deafness : głuchota
+drum : bębenek
+ear : ucho
+earache : ból ucha
+enclose : otoczyć
+eustachian tube : trąbka eustahiusza, trąbka słuchowa
+external : zewnętrzny
+hammer (malleus) : młoteczek
+helix : spirala, helisa
+hearing : słuch, słyszenie
+labirinth : labirynt
+lobes : płaty (ucha)
+neonatal meningitis : noworodkowe zapalenie opon mózgowych
+otitis media : zapalenie ucha srodkowego
+perilymph : perilimfa
+punctured : przekłuty, przebity
+pus : ropa
+rubella : różyczka
+stimuli (pl.), stimulus (sing.) : bodziec
+stirrup (stapes) : strzemiączko (kostka słuchowa)
+tympanic cavity : jama bębenkowa
+tympanic membrane : błona bębenkowa
+vistibule : przedsionek
+external ear : ucho zewnętrzne
+middle ear : ucho środkowe
+internal ear : ucho wewnętrzne
+external auditory canal : zewnętrzny kanał słuchowy
+temporal bone : kość skroniowa
+semicircular canal : kanał półkolisty
+mastication : żucie
+inflammation : zapalenie
+congenital : wrodzony
+inherited deafness : dziedziczna głuchota
+mental subnormality : upośledzenie umysłowe
+infection : zakażenie
+peri- : around
+ecto- : exterior
+endo- : inside
+inter- : Between
+intra- : Within
+extra- : Outside of
+supra- : over, above
+epi- : Over, above
+sub- : under
+ab- : away from
+ad- : Toward
+e- : Without
+ex- : Off, out
+in- : In, into
+eye socket : eye orbit
+yellow spot : macula flova
+Window of the eye : cornea
+White of the eye : sclera
+Sight : vision
+Cross eyes : strobismus
+short-sight : myopio
+long-sight : hypermetropia
+Pinna : auricle
+Ear drum : tympanic membrane
+hammer : malleus
+Stirrup : stapes
+anvil : incus
+Injury : trauma
+Hormone replacement therapy : hormonalna terapia zastępcza
+prescribed : przepisana
+hormone imbalance : zaburzenia hormonalne
+alleviate : łagodzić
+discomfort : niewygoda
+unblock :  odblokować
+untreated : nieleczone
+disorder : dolegliwość
+reproductive system : układ rozrodczy
+miscarriage : poronienie
+water-insoluble : nierozpuszczalne w wodzie
+undetected : niewykryte
+irreversible : nieodwracalny
+incurable stage : nieuleczalny etap
+impermeable : nieprzepuszczalny
+dislocated : zwichnięty
+unaffected : nie dotknięty, bez zmian
+immovable : nieruchome
+irregularly : nieprawidłowo, nieregularnie
+intolerance : nietolerancja
+infertility : bezpłodność
+ineffective : nieskuteczne
+disabled : niepełnosprawny
+reassurance : uspokojenie
+unable : niezdolny, nie być w stanie
+cope : radzić sobie z czymś
+immobilized : unieruchomiony
+inapparent : utajone	
+abnormality : nieprawidłowość, anormalność
+lozenge : pastylka
+dissolves : rozpuszcza
+unconscious : nieprzytomny
+insensitive : niewrażliwy, nieczuły
+disappointment : rozczarowanie
+unaware : nieświadomy
+disapproved : nie popiera
+malabsorption : nieprawidłowe wchłanianie
+inability : niezdolność
+unrevealed : nieujawniona
+unexpected : nieoczekiwany
+inadequate : nieodpowiedni
+discourage : zniechęcić
+inactive : nieaktywny
+uncomfortable : niewygodny
+inflamed : stan zapalny
+involuntary : mimowolny
+impatience : niecierpliwy
+disappear : znikać
+irrelevant : nieistotny
+unchanged : bez zmian
+unequal : nierówny
+inaccurate : niedokładny
+unemployed : bezrobotny
+aminotic fluid : płyn owodniowy
+birth canal : kanał rodny
+breach position : położenie pośladkowe
+dilated cervix : rozwarta szyjka macicy
+fallopian tube : jajowód 
+foetal monitoring : całodobowa obserwacja płodu
+lanugo hair : meszek
+maternal blood : matczyna krew
+menstrual period : miesiączka
+multiple pregnancy : ciąża mnoga
+premature baby : wcześniak
+umbilical cord : pępowina
+uterine contraction : skurcz macicy
+aim : cel celować
+approach : podejście
+area : obszar
+complain : skarżyć się, narzekać
+complaint : skarga, dolegliwość
+concern : zainteresować, dotyczyć, zajmować się
+consideration : rozwaga 
+take into consideration : wziąć, brać coś pod uwagę
+cure : leczyć, wyleczyć
+dietician : dietetyk
+duty : obowiązek, dyżur
+enviroment : otoczenie, środowisko
+examination : badanie
+physical examination : badanie fizykalne
+general practitioner : lekarz ogólny
+A gynaecologist : ginekolog
+indicate : wskazać, zalecić
+holistic : holistyczny
+laboratory technician : laborant
+medication : Lek
+A obstetrician : położnik
+occupational : zawodowy, zajęciowy
+pharmacist : farmaceuta
+physiotherapist : fizjoterapeuta
+precise : dokładny, precyzyjny
+prevention : zapobieganie
+radiographer : radiolog
+recognize : rozpoznawać
+relationship : związek, stosunek
+relieve : złagodzić, zelżeć
+remedial gymnast : instruktor gimnastyki leczniczej
+require : wymagać
+sedentary : siedzący
+speciality : specjalność
+treat : leczyć
+suffering : cierpienie
+treatment : leczenie
+pharmacological : farmakologiczny
+surgical : chirurgiczny
+physical condition : kondycja fizyczna
+disease : choroba
+clinical diagnosis : diagnoza kliniczna
+homeopathy : homeopatia
+naturopathy : medycyna naturalna
+herbal medicine : medycyna ziołowa
+A dermatologist : dermatolog
+A otolaryngologist : otolaryngolog, otorynolaryngolog (specjalista chorób uszu, nosa, gardła i krtani)
+dispensary : przychodnia
+pediatrician : pediatra
+An allergist : alergolog
+allergology : alergologia
+An immunologist : immunolog
+immunology : immunologia
+An anesthesiologist : anestezjolog
+anesthesiology : anestezjologia
+A geriatrician : geriatra
+geriatrics : geriatria
+A ophthalmologist : okulista
+ophthalmology : okulistyka
+psychiatrist : psychiatra
+psychiatry : psychiatria
+otolaryngology : otolaryngologia
+A general surgeon : chirurg
+surgery : chirurgia
+A neurologist : neurolog
+neurology : neurologia
+A plastic surgeon : chirurg plastyczny
+plastic surgery : Chirurgia plastyczna
+A urologist : urolog
+urology : urologia
+Mononuclear : jednojądrzasty
+Uniglandular : jednogruczołowy
+Bilobular : dwupłatkowy
+Dizygotic : dwuzygotowy
+Hemiparesis : niedowład połowiczy
+Apnea : bezdech
+Anorexia : brak łaknienia
+Ambivalent : ambiwalentny
+Asepsis : aseptyka
+diplopia : podwójne widzenie
+unilateral : jednostronny
+bilateral : dwustronny
+monochromatic : monochromatyczny
+hemisphere : półkula
+hemiplegia : hemiplegia
+bifocal : dwuogniskowy
+binocular : obuoczny, dwuoczny, lorneta
+hemicolectomy : zabieg polegający na wycięciu części jelita grubego
+monosaccharide : monosacharydem
+monofocal : jednoogniskową
+diplococcus : dwoinka, diplokok
+illness : Choroba
+prognosis : rokowanie
+specimen : okaz
+survive : przetrwać
+Drug : lek
+prediction : prognoza
+sample : próbka
+ailment : dolegliwość
+tool, utensil : narzędzie
+remedy : lekarstwo
+﻿accessory : dodatkowy, pomocniczy
+aid : pomoc
+angiography : angiografia
+Auscultation : słuchiwanie
+Biopsy : biopsja
+Bronchoscopy : wziernikowanie oskrzeli
+Bruit : szmer serca
+Carry out : wykonywać
+Click : click, trzask (sercowy)
+coarse rales : rzężenie grubobańkowe
+Colorectoscopy : wziernikowanie okrężnicy i odbytu
+Complete blood count : morfologia krwi
+Confirm : potwierdzić
+crackle : trzeszczenie
+Crepitation : Trzeszczenie
+Detect : dostrzegać wykrywać
+Determine : określać, ustalać
+Duration : trwanie
+Electrocardiogram : elektrokardiogram
+Electroencephalogram : elektroencefalogram
+elicit : wydobywać (coś od kogoś), ujawniać wyciągać
+Enlarged : powiększone
+Erythrocyte sedimentation rate : szybkość opadania krwinek ( O. B.)
+Fine rales : rzężenia drobnobańkowe
+Flexible : giętki elastyczny
+Gastroenteroscopy : gastroenteroskopia, wziernikowanie żołądka i jelit
+Hernia : przepuklina
+Inspection : oglądanie badanie
+Investigation : badanie
+Magnetic resonance : rezonans magnetyczny
+Murmur : szmer
+Occupation : zawód
+Oedema : obrzęk
+Palpation : palpacja
+Percussion : opukiwanie
+Pharyngoscopy : wziernikowanie gardła
+Physical examination : badanie fizykalne
+Positron : pozytron
+Radiography : radiografia
+Reveal : ujawnić
+Rigidity : sztywność
+Sample : próbka
+Sputum : plwocina
+Stethoscope : stetoskop
+Swelling : obrzmienie, opuchlizna
+Tenderness : bolesność uciskowa, tkliwość
+Tomography : tomografia 
+Ultrasonography : ultrasonografia
+Visualize : uwidocznić
+Wheeze : świszczenie
+obtain : uzyskać
+complaints : skargi
+marital : małżeński
+cyanosis : sinica
+injury : zranienie
+lumps : guzki
+dyspnoea : duszność
+swollen lymph glands : obrzęk węzłów chłonnych
+swollen blood vessels : obrzęk naczyń krwionośnych
+pulse rate : puls
+presure : ciśnienie
+abnormality : anormalność, nieprawidłowość
+rectal carcinoma : rak odbytnicy
+enlarged prostate gland  : powiększony gruczoł prostaty
+detected per rectum : wykryte metodą per rectum
+tapped : opukane
+dull : głuchy
+lung disorder : choroba płuc
+abnormal respiratory sounds : nieprawidłowy szmer oddechowy
+endoscopic examination : badanie endoskopowe
+laryngoscopy : laryngoskopia
+fetus : płód
+slice through body : przeciąć ciało
+lesions : zmiany
+blood clot : zakrzep
+abdomen : brzuch
+urine : mocz
+stool : stolec
+cerebrospinal : mózgowo-rdzeniowym
+What brings you here? : Co cie tu sprowadza?
+What are your complaints? : Jakie są twoje dolegliwości?
+What seems to be the problem? : Co wydaje się być problemem?
+How long have you had this pain? : Jak długo miałeś ten ból?
+How long does this pain last? : Jak długo ten ból trwał?
+When did the pain start? : Kiedy zaczął się ból?
+When did you first notice it? : Kiedy po raz pierwszy zauważyłeś go?
+where does it hurt? : Gdzie boli?
+Show me where the pain is? : Pokaż mi, gdzie jest ból?
+Which part of your head/chest/abdomen is affected? : Której częśći twojej głowy / klatki piersiowej / brzucha to dotyczy?
+Does it stay in one place or does it radiate anywhere else? : Czy pozostaje w jednym miejscu czy promienieje w inne miejsce?
+What kind of pain is it? : Jaki to rodzaj bólu?
+Can you describe the pain? : Czy możesz opisać ból?
+Does it affect your sleep/work? : Czy to wpływa na sen / pracy?
+Is the pain continuous or does it come and go? : Czy ból jest ciągły, czy też przychodzi i odchodzi?
+How often are the attacks? : Jak często są ataki?
+What seems to bring the pain on? : Co zdaje się przynosić ból?
+Is the pain relieved by drugs/rest/position? : Czy ból ustępuje po odpoczynku / lekarstwach / zmienieniu pozycji?
+Does anything make it better/worse? : Czy po czymś  polepsza się / staje się gorszy?
+Have you taken any medicine for the pain? : Brałeś jakieś lekarstwo na lek?
+Did the tablets help? : Czy tabletki pomogły?
+Apart from your chest pain are there any other problems? : Oprócz bólu w klatce piersiowej czy są jakieś inne problemy?
+How's your appetite? : Jak twój apetyt?
+Do you have any problems with passing water? : Czy masz jakieś problemy z oddawaniem wody?
+Are your bowel motions regular? : Czy masz regularne wypróżnienia?
+Have you noticed any blood in your stools? : Czy zauważyłeś jakąś krew w stolcu?
+Have you ever been operated on? : Czy kiedykolwiek byłeś operowany?
+Have you ever been admitted to hospital? : Czy kiedykolwiek został przyjęty do szpitala?
+Have you ever had chest pain before? : Czy kiedykolwiek miałeś ból w klatce piersiowej wcześniej?
+Are your parents alive and well? : Czy twoi rodzice żyją i miewają się dobrze?
+What did he/she die of? : Na co on/ona umarł/a?
+Does anyone in your family suffer from this problem? : Czy ktoś z Twojej rodziny cierpi na ten problem?
+How old are you? : Ile masz lat?
+What's your job? : Jaki jest twój zawód?
+Where do you live? : Gdzie mieszkasz?
+Are you married? : Czy jesteś zamężny/żonata?
+Do you smoke? : Palisz?
+How many do you smoke a day? : Ile palisz dziennie?
+Do you drink? : Pijesz?
+bone marrow : szpik kostny
+counselling : poradnictwo
+donor : dawca
+excision : wycięcie
+immune system : układ odpornościowy
+immunosuppressant : środek immunosupresyjny
+laser : laser
+lithotripsy : kruszenie kamieni
+palliative : paliatywny, łagodzący
+recipient : biorca
+rejection : odrzucenie
+substitute : substytut, zastępowainie, podstawianie
+tiny : mały
+ultrasonography : ultrasonografia
+radiation therapy : radioterapia
+endoscope : endoskop
+transplant surgery : operacja przeszczepu
+hip joint : staw biodrowy
+heart valves : zastawki serca
+lens : soczewka
+cysts : torbiele
+derived from plants : pochodzące z roślin
+antimicrobials : środki przeciwdrobnoustrojowe
+respiratory rate : częstość oddechów
+severely : ciężko
+radium : rad
+conservative : konserwatywny
+adjuvant : środek wspomagający
+ambulatory : ambulatoryjny
+prophylactic : profilaktyczny
+emergency : przeciwawaryjny, nagły przypadek
+exploratory : badawczy
+radical : radykalny
+reconstructive : rekonstrukcyjna
+antipyretic : przeciwgorączkowy
+antihypertensive : przeciwnadciśnieniowe
+antiinflammatory : przeciwzapalne
+anticoagulant : przeciwzakrzepowe
+antihistamic : przeciwhistaminowy
+aperient : środek przeczyszczający
+gradual : stopniowy
+rapid : szybki
+uneventful : spokojny
+unexpected : nieoczekiwany
+encouraging : zachęcający
+reliable : niezawodny
+striking : uderzający
+immediate : natychmiastowy
+excellent : doskonały
+mild : łagodny
+temporary : tymczasowy
+permanent : stały
+kidney stones : kamienie nerkowe
+retina detachment : odwarstwienie siatkówki
+hip joint degeneration : Zwyrodnienie stawu biodrowego
+impaired movement : zaburzenia ruchu
+healed leg fracture : Uzdrowienie nogi złamania
+respiratory distress : niewydolności oddechowej
+cardiac failure : Niewydolność serca
+rectal polyps : polipy odbytnicy
+Hypertension : nadciśnienie
+Hypoglycemia : hipoglikemia
+Macrocephaly : wielkogłowie
+Multigravida : wieloródka
+Oliguria : skąpomocz
+Polyuria : wielomocz
+Microcephalus : małogłowie
+multilobar : wielopłatowy?
+oligodontia : oligodontia, zmniejszona liczba zębów
+macrocolon : okrężnica olbrzymia
+hyperthyroidism : nadczynność tarczycy
+hypotension : niedociśnienie
+multilateral : wielostronny
+oligopnea : zmniejszenie częstości oddechów
+Micronodular : drobnoguzkowy
+macrocornea : rogówka olbrzymia
+hypercardia : przerost serca
+polynuclear : wielopierścieniowe
+hypometabolism : obniżenie przemiany materii
+polymorphism : polimorfizm, wielopostaciowość
+hypersensitivity : nadwrażliwość
+loss of consciousness : utrata przytomności
+nausea : nudności
+chest pain : ból w klatce piersiowej
+diarrhoea : biegunka
+hoarseness : chrypka
+ankle oedema : obrzęk stawu skokowego
+paresis : niedowład
+cyanosis : sinica
+astigmatism : astygmatyzm
+back pain : ból pleców
+joint stiffness : sztywność stawów
+muscle guarding : ochrona mięśni?
+conjunctivitis : zapalenie spojówek
+dyspnoea : duszność
+haematuria : krwiomocz
+pimples : pryszcze
+belching : odbijanie
+paralysis : paraliż
+rhinitis : katar
+numbness of the fingers : drętwienie palców
+dandruff : łupież
+arterial murmur : szmer tętniczej?
+retrosternal pain : ból zamostkowy
+cholecystolithiasis : Kamica pęcherzykowa
+dementia : demencja
+incontinence : nietrzymanie moczu
+coarse rales : rzężenia grubobańkowe
+tinnitus : szum w uszach
+acne : trądzik
+anuria : bezmocz
+epileptic seizures : napady padaczkowe
+crepitations : trzeszczenia
+migraine : migrena
+urticaria : pokrzywka
+heartburn : zgaga
+pleural friction : tarcia opłucnej
+tachycardia : tachykardia
+tachypnoea : przyspieszony oddech
+wheezes : dyszeć, sapać
+haematemesis : krwawe wymioty, wymioty fusowate
+insomnia : bezsenność
+haemorrhage : krwotok
+syncope : omdlenie
+pallor : bladość
+strabismus : zez
+deafness : głuchota
+respiratory system : układ oddechowy
+cardiovascular system : układ sercowo-naczyniowy
+gastrointestinal system : układ pokarmowy
+genitourinary system : układ moczowo-płciowy
+central  nervous system : ośrodkowy układ nerwowy
+musculoskeletal system : układ mięśniowo-szkieletowy
+anterior : przedni
+ascend : wstępować
+caudal : doogonowy
+comprise : zawierać, obejmować składać się
+contain : zawierać, mieścić w sobie
+couch : leżanka
+cranial : czaszkowy, głowowy
+descend : zstępować
+direct : skierować, bezpośredni
+distal : dystalny, dalszy
+dorsal : grzbietowy
+downwards : na/w dół, ku dołowi
+extend : rozciągać się, rozprzestrzeniać się
+forwards : naprzód, ku przodowi
+inferior : dolny, niższy
+lateral : boczny
+medial : środkowy
+parallel : równoległy
+pass : przejście, przechodzić
+posterior : tylny
+proximal : proksymalny, bliższy
+side : strona, bok
+structure : struktura, budowla
+superior : górny, wyższy
+surface : powierzchnia, zewnętrzna strona
+trachea : tchawica
+upright : wyprostowany
+ventral : brzuszny
+superficial : powierzchowny
+oesophagus : przełyk
+adhesive plaster : przylepiec
+adhesive tape : Przylepiec
+anesthetic : środek znieczulający
+analgesic : środek przeciwbólowy
+antiallergic : środek przeciwalergiczny
+antibiotic : antybiotyk
+antipyretic : środek przeciwgorączkowy
+appointment : umówiony termin, zamówiona wizyta u lekarza
+auriscope : wziernik uszny
+cabinet : szafka
+calgul? : kalgul?
+cleanse : oczyścić
+constipation : zaparcie
+consulting room  : gabinet przyjęć lekarski
+couch : kozentka, leżanka
+disinfect : zdezynfekować
+disposable syringe : strzykawka jednorazowego użytku
+dissecting forceps : kleszczyki do preparowania
+dressing : opatrunek
+equipment : sprzęt, wyposażenie
+forceps : kleszczyki, kleszcze
+gauze : gaza
+gul?(gut?) : gul?(jelito)
+hypnotic : środek nasenny
+injury : zranienie, uszkodzenie
+laxative : środek przeczyszczający
+ophthalmoscope : wziernik oczny, Oftalmoskop
+plaster of paris : gips
+prescribe : zapisywać (lek, terapię)
+procedure : zabieg (operacyjny)
+reception : recepcja, rejestracja
+records : kartoteka, archiwum
+recover : wyzdrowieć, powrócić do zdrowia
+recovery room : sala pooperacyjna, pokój pozabiegowy
+sedative : środek uspokajający
+seize : chwytać
+sight : wzrok
+Snellen chart : tablica Snellena
+suture : szew
+suture set : zestaw narzędzi do zakładania szwów
+tongue depressor : szpatułka do uciskania języka
+torch : latarka
+tranquilizer : Środek uspokajający
+treatment room : gabinet zabiegowy
+weighing scales : waga
+wound : rana
+patient's card : Karta pacjenta
+sphygmomanometer : ciśnieniomierz
+laryngeal mirrors : lusterka krtaniowego
+palpate : obmacać
+auscultate : opukać
+pneumonia : zapalenie płuc
+anxious : niespokojny
+cyanotic : siniczy
+febrile : gorączkowy
+dyspnoeic : dusznością
+nauseated : mdłości
+tenderness : czułość
+rigidity : sztywność
+distension : nabrzmnienie
+hepatosplenomegaly : powiększenie wątroby i śledziony
+resonant : rezonansowy
+dull : głuchy
+crepitations : trzeszczenia
+creps : Trzeszczenia
+crackles : trzaski
+coarse rales : grube rzężenia
+fine rales : drobne rzężenia
+moist rales : wilgotne rzężenia
+wheezes : charczenie
+rhonchi : rzężenia
+pleural friction : tarcia opłucnej
+cardiac murmurs : szmery sercowe
+tuberculosis : gruźlica
+pharyngitis : zapalenie gardła
+measles : odra
+parasites : pasożyt
+fungi : grzyby
+bronchoscopy : bronchoskopia
+immunity : odporność
+angiography : angiografia
+appendectomy : wycięcie ślepej kiszki
+haemorrhage : krwotok
+gastritis : nieżyt żołądka
+laparotomy : laparotomia
+hysterectomy : usunięcie macicy
+anaesthetic room : sala do wprowadzania znieczulania ogólnego
+communicable disease : choroba zakaźna
+dispensary : apteka szpitalna
+emergency : nagły przypadek
+endowment : fundacja
+general hospital : szpital ogólny
+injure : zranić
+in-patient : chory leżący w szpitalu
+insurance : ubezpieczenie
+issue : wydawać
+medical ward : oddział wewnętrzny
+operating theatre: sala operacyjna
+out-patien department : przychodnia przy szpitalu, ambulatorium
+provide : dostarczyć, zapewnić
+require : wymagać
+research : badania naukowe
+ward : sala chorych w szpitalu(oddział)
+X-ray department : oddział radiografii, pracownia radiograficzna
+attached : przyłączone
+postgraduates : podyplomowy
+community hospital :  mały szpital rejonowy
+maternity hospital : szpital położniczy
+geriatrics hospital : szpital geriatryczny?
+Emergency Department : ostry dyżur 
+The Intensive Care Unit, Intensive Therapy Unit : Intensywnej Terapii
+Recovery Room :  pokój wybudzeń
+Pathology Laboratory (Path Lab) : Pracownia(lagoratorium) patologii
+The Blood Bank : bank krwi
+Medical Records : historia choroby
+measles complication : measles complication
+hepatitis : zapalenie wątroby
+pneumonia : zapalenie płuc
+rash : wysypka
+cataract operation : operacja zaćmy
+investigation : śledztwo
+Coronary care unit : oddział intensywnej Opieki kardiologicznej
+armpit : dół pachwowy
+bulb : bańka
+blunt : tępy
+collapse : zapaść
+constrict : skurczyś, zacisnąć
+fever : gorączka
+flush : zaczerwienienie, zaczerwienić się
+hypothalamus : podwzgórze
+infectious : zakaźny
+pyrexia : Gorączka
+range : zakres, zasięg
+record : zapisać
+shiver : drżeć, mieć dreszcze
+site : miejsce
+sweating : pocenie się
+dilate : rozszerzać
+restlessness : niepokój
+convulsions : drgawki
+chills : dreszcze
+expectorate: wypluć
+dyspnoea : duszność
+bronchitis : zapalenie oskrzeli
+be admitted to hospital : zostać przyjętym do szpitala
+instituated a therapy : ustanowił terapii
+operated on : operowanych
+put on medication : Przyjmować leki.
+referred to a specialist : skierowany do specjalisty
+Bowel movement : wypróżnienia
+iron dextran : dekstran żelaza 
+anxiety : niepokój, obawa
+carotid : szyjny
+femoral : udowy
+force : siła
+heart beat : bicie serca
+index finger : palec wskazujący
+infant : niemowlę
+middle finger : palec środkowy
+newborn : nowo narodzony, noworodek
+popliteal : podkolanowy
+pulse : puls
+radial : promieniowy
+reflection : odbicie, odzwierciedlenie
+relaxation : odprężenie
+temporal : skroniowy
+pumped : pompowana
+wrist : nadgarstek
+temples : świątynie
+groin : pachwina
+knee :kolano
+apical :koniuszka 
+apex : wierzchołek
+nipple : sutek
+tachycardia : tachykardia
+bradycardia : bradykardia
+arrhythmia : niemiarowość
+obstructed : zatkany
+peripheral circulatory : krążenia obwodowego
+accelerated : przyśpieszony
+shallow : płytki
+laboured : pracował
+interrupted : przerwane
+irregular : nieregularny
+alternating : zmienny
+galloping rhythm :galopujący rytm
+leaping : skaczący
+pendulum rhythm : wahadło rytm
+intermittent : przerywany
+thready : nitkowaty
+trembling :drżenie
+unequal : nierówny
+corpulent : korpulentny, brzuchaty
+stocky : krępy
+obese :otyły
+febrile : gorączkowy
+transitory : przejściowy
+epileptic :padaczkowy
+apply : zastosować
+blood pressure : ciśnienie krwi
+brachial artery : tętnica ramienna
+chart : karta gorączkowa pacjenta
+constant : stały
+cuff : mankiet
+deflate : wypuścić powietrze
+diastolic pressure : ciśnienie rozkurczowe
+inflate : napompować
+maintain : utrzymywać, podtrzymywać
+mercury : rtęć
+quantity : ilość
+slender : szczupły, smukły
+sphygmomanometer : sfygmomanometr
+systolic pressure : ciśnienie skurczowe
+vena cava : żyła główna
+ventricles : komory
+contract : kurczyć
+haemorrhage : krwotok
+hypertension : nadciśnienie
+sodium restriction : ograniczenie sodu
+antihypertensive:  przeciwnadciśnieniowe
+deflated : przybity, przygnębiony, sflaczały
+auscultation : osłuchiwanie
+extrasystole : ekstrasystoli
+bradycardia : bradykardia
+tachycardia : tachykardia
+auricular fibrillation : migotanie przedsionków
+arterial murmur : szmer tętniczej
+mitral murmur : mitralnej szmer
+tricuspid murmur : szmer trójdzielnej
+pericardial friction : tarcia osierdzia
+mild : łagodny
+slight : niewielki
+severe : ciężki
+marked : zaznaczone
+significant : znaczący
+heart disorder : zaburzenia serca
+angina pectoris : dusznica bolesna
+congestive heart failure : zastoinowa niewydolność serca
+hypotension : niedociśnienie
+myocardial ischemia : zawał mięśnia sercowego
+fall : spadek
+equal : równy
+frequent : częsty
+rapid : rapid
+rise : wzrost, powstanie
+variable : zmienna, zmienny
+rare :rzadki
+aspect : aspekt, strona oglądania
+buttock : pośladek
+cerebro-spinal : mózgowo rdzeniowy
+diabetic coma : śpiączka cukrzycowa
+disposable syringe : strzykawka jednorazowa
+fluid : płyn
+hydrocortisone acetate : octan hydrokorizonu
+infusion : wlew, infuzja
+injection : zastrzyk
+intra-articular : dostawowy(zastrzyk)
+intradermal : śródskórny
+intramuscular : domięśniowy
+intrathecal : dooponowy
+intravenous : dożylny
+irritant : drażniący
+leukaemia : białaczka
+lumbar puncture : punkcja lędźwiowa
+meningitis : zapalenie opon mózgowo-rdzeniowych
+purpose : cel
+route : droga
+subcutaneous : podskórny
+superficial : powierzchniowy
+convenient : wygodny
+mucous : śluzowaty
+gastrointestinal tract : przewód pokarmowy
+parenterally  : pozajelitowo
+intracutaneous : Śródskórny
+hypodermic injection : iniekcja podskórna
+thigh : udo
+dextrose : glukoza
+electrolyte : elektrolit
+joint : staw
+arthritis : artretyzm
+dose : dawka
+penicillin : penicylina
+streptomycin : streptomycyna
+methotrexate : metotreksat
+codeine : kodeina
+ringer's lactate : mleczan Ringera
+erythromycin : erytromycyna
+urine specimen : próbka moczu
+digoxin : digoksyna
+elix phenobarbital : Elix fenobarbital??? może elixir???
+auricle : małżowina uszna
+articulation : artykulacja
+dermis : skóra właściwa
+cerebrum : mózg
+diabetes : cukrzyca
+spine : kręgosłup
+surface : powierzchnia, wierzch
+vein : żyła
+ointments : maści
+parenteral : pozajelitowe
+Topical : miejscowe
+suppositories : czopki
+digestive tract : Przewód pokarmowy
+blood vessel : naczynie krwionośne
+connective tissue : tkanka łączna
+dermis : skóra właściwa
+epidermis : naskórek
+epithelium : nabłonek
+flat : płaski
+hair : włosy
+keratinization : rogowacenie, keratynizacja
+layer : Warstwa
+mammary gland : gruczoł mleczny
+melanin : melanina
+nail : paznokieć
+sebaceous gland : gruczoł łojowy
+skin : skóra
+sole : podeszwa
+subcutaneous : podskórny
+sweat gland : gruczoł potowy
+tough : mocny wytrzymały
+duct : kanał
+cornified : zrogowaciały
+stratum : warstwa
+germinativum : germinativum
+arrector : arrector
+papilla : brodawka
+follicle : pęcherzyk
+lymph vessels : naczyń limfatycznych
+fingerprints  : odciski palców
+fat : tłuszcz
+Adenoma : rak gruczołowy
+Lymphocytosis : limfocytoza
+Dermatology : dermatologia
+Myocardium : mięsień sercowy
+Cephalomegaly : wielkogłowie
+Brachiocephalic : ramieniowo-głowowy
+acne : trądzik
+carbon dioxide : dwutlenek węgla
+crust : strup
+damage : szkoda, uszkodzenie, uszkodzić
+dermatitis : zapalenie skóry
+dermatomycosis : grzybica
+dissolved : rozpuszczony
+ear wax : woskowina uszna
+eczema : egzema
+erythema : rumień
+evaporate : parować, ulatniać się
+excessive : nadmierny
+excoriation : otarcie skóry, zadrapanie
+excretory organ : organ wydalniczy
+expose : wystawić, narazić
+fissure : szczelina, pęknięcie
+furuncle : czyrak nogi
+injury : zranienie, uszkodzenie
+irritation : podrażnienie
+itch : sfędzieć
+lesion : uszkodzenie, zmiana chorobowa
+mole : znamię
+ointment : maść
+perspiration : pocenie się
+protection : ochrona
+provide : dostarczyć, zaopatrzyć
+psoriasis : łuszczyca
+rash : wysypka
+relieve : złagodzić
+retain : zatrzymywać, powstrzymywać
+scabies : świerzb
+scratch : drapać
+sebum : łój skórny
+secretion : wydzielanie
+stimulus (pl.) stimuli : bodziec
+trigger  : wyzwolić, spowodować
+ulcer : wrzód
+waterproof : wodoodporny
+wax : wosk
+sensory organ : organ zmysłowy
+rays : promienie
+coat : płaszcz
+rapid : szybkie
+quantity : ilość
+constant : stały
+continuously : ciągły
+nerve endings : zakończenia nerwowe
+various : różnorodny
+pressure : ciśnienie
+viral : wirusowy
+fungal : grzybicze
+parasites : pasożyty
+melanoma : czerniak
+harmful : szkodliwe
+adolescence : wiek młodzieńczy
+reddened : zaczerwieniona
+swollen : spuchniały
+abdominopelvic cavity : jama brzuszno-miednicza
+bound : ograniczać, wiązać
+brain : mózg
+cranial cavity : jama czaszkowa
+feverish : gorączkowy
+heart : serce
+large intestine : jelito grube
+liver : wątroba
+lung : płuco
+pancreas : trzustka
+pelvis : miednica
+peritoneum : otrzewna
+rectum : odbyt
+reproductive organs : organy rozrodcze
+rib : żebro
+slightly : nieznacznie
+small intestine : jelito cienkie
+sort out : rozwiązać
+spinal column : kręgosłup
+spleen : śledziona
+sternum : mostek
+stomach : żołądek
+thoracic cavity : jama klatki piersiowej
+urinary bladder : pęcherz moczowy
+weight : waga
+cranium : czaszka
+base : podstawa
+digestion : trawienie
+endocrine system : system wydzielania wewnętrznego
+respiratory system : układ oddechowy
+circulatory system : układ krążenia
+digestive system : układ travienny
+excretory system : układ wydalniczy
+reproductive system : układ rozrodczy
+locomotor system : system ruchowy?
+appendicular : odnoszący się do kończyn
+axial : osiowy
+carpal : nadgarstkowy
+cervical : szyjny
+clavicle : obojczyk
+coccyx : kość guziczna, kość ogonowa
+cranium : mózgoczaszka
+femur : kość udowa
+fibula : kość strzałkowa
+girdle : obręcz
+humerus : kość ramieniowa
+lumbar : lędźwiowy
+metacarpal : śródręczny
+metatarsal : śródstopowy
+patella : rzepka kolanowa
+phalanges(pl.) phalanx(sing.) : paliczki
+radius : kość promieniowa
+sacrum : kość krzyżowa
+scapula : łopatka
+skull : czaszka
+tibia : kość piszczelowa
+ulna : kość łokciowa
+vertebra vertebrae(pl.) : kręg
+alveolus : pęcherzyk płucny
+respiratory system : układ oddechowy
+sac  : pęcherzyk
+tonsil : migdałek
+visceral : trzewny
+attach : przyłączyć
+basc : podstawa
+bloodstream : krwioobieg
+pharynx : gardło
+larynx : Krtań
+trachea : tchawica
+bronchi (pl), bronchus (sing)  : oskrzela
+bronchiole : oskrzelik
+cone : stożek
+factor : czynnik
+hoarseness : chrypka
+hurt : zranienie
+laryngopharynx : krtaniowa część gardła
+line : linia, wyścielić
+lobe : płat
+lung : płuco
+alveoli of the lungs : pęcherzyki plucne
+nasal septum : przegroda nosowa
+nasal cavity : jama nosowa
+posteriorly : tyłowi
+nasopharynx : część nosowa gardła
+oropharynx : część ustna gardła
+parietal : ścienny
+cartilages : chrząstki
+vocal cords : struny głosowe
+capillaries : naczynka
+lobes : płaty
+serous membrane : błona surowicza
+pleura : opłucna
+clavicle : obojczyk
+epiglottis : nagłośnia
+sore throat : ból gardła
+auscultate : opukać
+Thoracolumbar : piersiowo lędźwiowy
+Pleuracotamy : drenaż jamy opłucnej
+Pharyngoscopy : wziernikowanie gardła
+Laryngoscopy : wziernikowanie krtani
+Rhinopathy : choroba nosa
+Bronchoconstriction : zwężenie oskrzeli
+Tracheospasm : skurcz tchawicy
+respiration : oddychanie
+reversible : odwracalny
+absorb : wchłaniać
+absorption : wchłanianie
+sacs : woreczki
+diffuses : przenikać, rozproszony, rozpraszać
+accessory : dodatkowy, pomocniczy
+accessory organs : poboczne organy
+intercostal muscles : mięśni międzyżebrowych
+intercostal : międzyżebrowe
+involve : wciągnąć (w proces chorobowy)
+ribs : żebra
+blaish : niebieskawy
+capillary : naczynie włosowate
+consecutive : kolejny
+distension : rozszerzanie
+enlarge : powiększyć
+exhale : wydychać
+distress : ciężki stan, wyczerpanie
+tonsillitis : zapalenie migdałków
+volume : objętość, pojemność
+inspiration : wdech
+expiration : wydech
+influenza : grypa
+obstruct : zatkać, zaczopować
+oxygen : tlen
+rhinitis : katar, nieżyt nosa
+pharyngitis : zapalenie gardła
+laryngitis : zapalenie krtani
+bronchitis : zapalenie oskrzeli
+pneumonia : zapalenie płuc
+pleuritis : zapalenie opłucnej
+spasmodic : spazmatyczny, skurczowy
+contraction : skurcz
+bronchospasm : skurcz oskrzeli
+pollen : pyłek
+Emphysema : rozedma
+alveoli : pęcherzyki płucne
+enzyme : enzym
+respiratory distress syndrome : zespół zaburzeń oddechowych
+benign : łagodny
+sputum production : odkrztuszanie plwociny
+nasal discharge : wydzielina z nosa
+haemoptysis : krwioplucie
+cyanosis : sinica
+malaise : złe samopoczucie
+air sac : Pęcherzyk płucny
+armpit : pacha 
+collarbone : Obojczyk
+kneecap : rzepka
+limb : kończyna
+shoulder blade : łopatka
+small of the back : krzyż
+spinal column : kręgosłup
+voice box : krtań
+windpipe : Tchawica
+flexible : giętki
+anemia : anemia
+fluid : płyn
+carbon dioxide : dwutlenek węgla
+plasma : osocze krwi
+carbohydrates : węglowodany
+dissolved : rozpuszczony
+dissolve : rozpuścić
+dizziness : zawrót głowy
+suspended : zawieszony
+lung capillary : kapilary płuc
+granulocytes : granulocyty
+basophils : bazofile, leukocyt zasadochłonny
+eosinophils : granulocyt eozynochłonny
+neutrophils : neutrofil, granulocyt obojętnochłonny
+monocytes : monocyty
+ingest : przyjmować pokarm,
+blood coagulation, blood clotting : krzepnięcia krwi
+coagulation : krzepnięcie
+pale : blady
+leukaemia : białaczka
+bone marrow : szpik kostny
+lymph nodes : węzły chłonne
+oedema : otyłość, obrzęk
+dyspnoea : duszność
+exertion : wysiłek
+angina pectoris : dusznica bolesna
+ventricular hypertrophy : przeróst komór
+strain: odkształcenie
+diuretics : diuretyki
+phlebitis : zapalenie żyły
+cardiomegaly : powiększenie serca
+Hematologi : nauka o krwi
+Sanguinopoietic : krwiotwórczy
+Angiography : angiografia
+Vascularity : unaczynienie
+malignant neoplasm : złośliwy nowotwór
+malignant : złośliwy
+connective tissue : tkanka łączna
+constituent : składnik
+count : ilość, liczyć
+deffensive mechanism : mechanizm obronny
+decrease : zmniejszać
+deficiency : niedobór
+enlargement : powiększenie
+erythrocyte : erytrocyt, krwinka czerwona
+haemoglobin : hemoglobina
+impair : upośledzić, uszkodzić
+increase : wzrastać
+leukocyte : leukocyt, krwinka biała
+leukocytosis : leukocytoza, zwiększony poziom leukocytów we krwi
+leukopenia : leukopenia
+matrix : substancja podstawowa
+multiplication : pomnożenie
+nucleated : jądrzasty 
+obese : otyły
+sedimentation rate : szybkość opadania
+thrombocyte : trombocyt, płytka krwi
