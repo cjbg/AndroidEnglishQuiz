@@ -36,4 +36,42 @@ c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz
 c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Xml.dll.mdb
 c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\AndroidEnglishQuiz.dll.mdb
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\AndroidEnglishQuiz.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\AndroidEnglishQuiz.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\AndroidEnglishQuiz.pdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\AndroidEnglishQuiz.AndroidEnglishQuiz.apk
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\AndroidEnglishQuiz.AndroidEnglishQuiz-Signed.apk
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\AndroidEnglishQuiz.csprojResolveAssemblyReference.cache
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\AndroidEnglishQuiz.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\AndroidEnglishQuiz.pdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\bin\AndroidEnglishQuiz.AndroidEnglishQuiz.apk
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\res\layout\main.xml
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\res\values\strings.xml
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\res\drawable\icon.png
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\R.cs.flag
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\uploadflags.txt
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\AndroidEnglishQuiz.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\Java.Interop.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\Mono.Android.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\mscorlib.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\System.Core.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\System.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\System.Xml.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\AndroidEnglishQuiz.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\AndroidEnglishQuiz.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\bin\Debug\AndroidEnglishQuiz.dll.mdb

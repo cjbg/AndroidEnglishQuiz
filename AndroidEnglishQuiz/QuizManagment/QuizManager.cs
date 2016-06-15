@@ -9,18 +9,25 @@ namespace AndroidEnglishQuiz.QuizManagment
 {
   public class QuizManager
   {
+    public string CurrentAskedWord;
+    public string CurrentAnswerWord;
+    private int _currentRepetitionNumber;
+    private readonly Random _random;
+
     private const int RepetitionNumber = 1;
-    public Dictionary<string, Word> _wordsAngPol;
-    private Dictionary<string, Word> _wordsPolAng;
+    private Dictionary<string, Word> _wordsAngPol;
+    //private Dictionary<string, Word> _wordsPolAng;
 
     public QuizManager()
     {
+      _random = new Random();
       List<string> words = ReadWords();
 
       _wordsAngPol = new Dictionary<string, Word>();
-      _wordsPolAng = new Dictionary<string, Word>();
+      //_wordsPolAng = new Dictionary<string, Word>();
 
       AddWordsToDictionariesWithFiltering(words);
+      SetRandomWord();
     }
 
     private static List<string> ReadWords()
@@ -56,13 +63,13 @@ namespace AndroidEnglishQuiz.QuizManagment
                   RepetitionNumber = RepetitionNumber
                 });
 
-          _wordsPolAng.Add(
-            words[i + 1].Trim(),
-            new Word
-            {
-              WordName = words[i].Trim(),
-              RepetitionNumber = RepetitionNumber
-            });
+          //_wordsPolAng.Add(
+          //  words[i + 1].Trim(),
+          //  new Word
+          //  {
+          //    WordName = words[i].Trim(),
+          //    RepetitionNumber = RepetitionNumber
+          //  });
         }
       }
     }
@@ -70,7 +77,23 @@ namespace AndroidEnglishQuiz.QuizManagment
     private bool DictionariesNotContains(List<string> words, int i)
     {
       return !_wordsAngPol.ContainsKey(words[i].Trim())
-                && !_wordsPolAng.ContainsKey(words[i + 1].Trim());
+                //&& !_wordsPolAng.ContainsKey(words[i + 1].Trim())
+                ;
+    }
+
+    private void SetRandomWord()
+    {
+      int randomWordNumber;
+
+      do
+      {
+        randomWordNumber = _random.Next(0, _wordsAngPol.Count);
+      }
+      while (_wordsAngPol.Values.ElementAt(randomWordNumber).RepetitionNumber == 0);
+
+      CurrentAskedWord = _wordsAngPol.Keys.ElementAt(randomWordNumber);
+      CurrentAnswerWord = _wordsAngPol[CurrentAskedWord].WordName;
+      _currentRepetitionNumber = _wordsAngPol[CurrentAskedWord].RepetitionNumber;
     }
   }
 }

@@ -1,22 +1,22 @@
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\AndroidEnglishQuiz.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\Java.Interop.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\Mono.Android.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\mscorlib.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Core.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Xml.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Xml.Linq.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Threading.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Runtime.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Collections.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Collections.Concurrent.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Reflection.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Linq.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Runtime.Extensions.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Reflection.Extensions.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Runtime.Serialization.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-c:\users\jakub.czabator\documents\visual studio 2015\Projects\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\AndroidEnglishQuiz.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\mscorlib.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Core.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Xml.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Threading.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Runtime.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Collections.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Reflection.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Linq.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Runtime.Extensions.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Users\jakub.czabator\Documents\GitHub\AndroidEnglishQuiz\AndroidEnglishQuiz\obj\Debug\android\assets\System.Net.Http.dll
